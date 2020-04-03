@@ -1,0 +1,502 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.selection.table.RowModel\r\n * @extends Neo.selection.Model\r\n */",
+            "meta": {
+                "filename": "RowModel.mjs",
+                "lineno": 4,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "RowModel",
+            "augments": [
+                "Neo.selection.Model"
+            ],
+            "memberof": "Neo.selection.table",
+            "longname": "Neo.selection.table.RowModel",
+            "scope": "static",
+            "$longname": "Neo.selection.table.RowModel",
+            "$kind": "class",
+            "id": 1656,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.selection.table.RowModel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "RowModel.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.selection.table.RowModel'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1657,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='selection-table-rowmodel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "RowModel.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'selection-table-rowmodel'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1658,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} cls='selection-rowmodel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "RowModel.mjs",
+                "lineno": 24,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'selection-rowmodel'",
+            "access": "private",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1659,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    762,
+                    1099
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 30,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053450",
+                    "name": "RowModel#addDomListener",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "addDomListener",
+            "longname": "RowModel#addDomListener",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "params": [],
+            "$longname": "RowModel#addDomListener",
+            "$kind": "method",
+            "id": 1660,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     * Finds the matching table row for a given row index\r\n     * @param {Number} index row index\r\n     * @returns {String|null} The table row node id\r\n     */",
+            "meta": {
+                "range": [
+                    1277,
+                    1461
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 49,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053488",
+                    "name": "RowModel#getRowId",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "index"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Finds the matching table row for a given row index",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "description": "row index",
+                    "name": "index"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "String",
+                            "null"
+                        ]
+                    },
+                    "description": "The table row node id"
+                }
+            ],
+            "name": "getRowId",
+            "longname": "RowModel#getRowId",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "$longname": "RowModel#getRowId",
+            "$kind": "method",
+            "id": 1661,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     * Finds the matching table row for a given event path\r\n     * @param {Object} path The event path\r\n     * @returns {Object|null} The node containing the table row class or null\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1687,
+                    1976
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 63,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053531",
+                    "name": "RowModel.getRowNode",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "path"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Finds the matching table row for a given event path",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "The event path",
+                    "name": "path"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object",
+                            "null"
+                        ]
+                    },
+                    "description": "The node containing the table row class or null"
+                }
+            ],
+            "access": "private",
+            "name": "getRowNode",
+            "longname": "RowModel.getRowNode",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "static",
+            "$longname": "RowModel.getRowNode",
+            "$kind": "method",
+            "id": 1662,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    2039,
+                    2103
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 81,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053574",
+                    "name": "RowModel#onKeyDownDown",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "onKeyDownDown",
+            "longname": "RowModel#onKeyDownDown",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "$longname": "RowModel#onKeyDownDown",
+            "$kind": "method",
+            "id": 1663,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    2166,
+                    2229
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 89,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053586",
+                    "name": "RowModel#onKeyDownUp",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "onKeyDownUp",
+            "longname": "RowModel#onKeyDownUp",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "$longname": "RowModel#onKeyDownUp",
+            "$kind": "method",
+            "id": 1664,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} data\r\n     * @param {Number} step\r\n     */",
+            "meta": {
+                "range": [
+                    2321,
+                    3042
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 98,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053599",
+                    "name": "RowModel#onNavKeyRow",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data",
+                        "step"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "name": "step"
+                }
+            ],
+            "name": "onNavKeyRow",
+            "longname": "RowModel#onNavKeyRow",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "$longname": "RowModel#onNavKeyRow",
+            "$kind": "method",
+            "id": 1665,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    3105,
+                    3549
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 128,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053709",
+                    "name": "RowModel#onRowClick",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "onRowClick",
+            "longname": "RowModel#onRowClick",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "$longname": "RowModel#onRowClick",
+            "$kind": "method",
+            "id": 1666,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Neo.component.Base} component\r\n     */",
+            "meta": {
+                "range": [
+                    3629,
+                    4083
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 149,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053779",
+                    "name": "RowModel#register",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "component"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Neo.component.Base"
+                        ]
+                    },
+                    "name": "component"
+                }
+            ],
+            "name": "register",
+            "longname": "RowModel#register",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "$longname": "RowModel#register",
+            "$kind": "method",
+            "id": 1667,
+            "neoClassName": "Neo.selection.table.RowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    4117,
+                    4559
+                ],
+                "filename": "RowModel.mjs",
+                "lineno": 172,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100053832",
+                    "name": "RowModel#unregister",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "unregister",
+            "longname": "RowModel#unregister",
+            "kind": "function",
+            "memberof": "RowModel",
+            "scope": "instance",
+            "params": [],
+            "$longname": "RowModel#unregister",
+            "$kind": "method",
+            "id": 1668,
+            "neoClassName": "Neo.selection.table.RowModel"
+        }
+    ]
+}

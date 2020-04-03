@@ -1,0 +1,241 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * This class gets used by core.Base, so it can not extend it.\r\n * It could get simplified to just being an object (needs to manually get put into the Neo namespace in this case).\r\n * @class Neo.core.IdGenerator\r\n * @singleton\r\n */",
+            "meta": {
+                "filename": "IdGenerator.mjs",
+                "lineno": 1,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {}
+            },
+            "description": "This class gets used by core.Base, so it can not extend it.\rIt could get simplified to just being an object (needs to manually get put into the Neo namespace in this case).",
+            "kind": "class",
+            "name": "IdGenerator",
+            "tags": [
+                {
+                    "originalTitle": "singleton",
+                    "title": "singleton",
+                    "text": ""
+                }
+            ],
+            "memberof": "Neo.core",
+            "longname": "Neo.core.IdGenerator",
+            "scope": "static",
+            "$longname": "Neo.core.IdGenerator",
+            "$kind": "class",
+            "id": 601,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n         * Set this one to false in case you don't want to stick\r\n         * to the \"anti-pattern\" to apply classes to the global Neo or App namespace\r\n         * @member {Boolean} registerToGlobalNs=true\r\n         * @private\r\n         * @static\r\n         */",
+            "meta": {
+                "filename": "IdGenerator.mjs",
+                "lineno": 16,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {}
+            },
+            "description": "Set this one to false in case you don't want to stick\rto the \"anti-pattern\" to apply classes to the global Neo or App namespace",
+            "kind": "member",
+            "name": "registerToGlobalNs",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "access": "private",
+            "scope": "static",
+            "longname": "registerToGlobalNs",
+            "$longname": "registerToGlobalNs",
+            "$kind": "property",
+            "id": 602,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.core.IdGenerator'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "IdGenerator.mjs",
+                "lineno": 24,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.core.IdGenerator'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 603,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='id-generator'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "IdGenerator.mjs",
+                "lineno": 29,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'id-generator'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 604,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n         * The default prefix for neo instance ids\r\n         * @member {String} base='neo-'\r\n         */",
+            "meta": {
+                "filename": "IdGenerator.mjs",
+                "lineno": 34,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {}
+            },
+            "description": "The default prefix for neo instance ids",
+            "kind": "member",
+            "name": "base",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'neo-'",
+            "longname": "base",
+            "scope": "global",
+            "$longname": "base",
+            "$kind": "property",
+            "id": 605,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} singleton='true\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "IdGenerator.mjs",
+                "lineno": 39,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "singleton",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": "'true",
+            "access": "private",
+            "longname": "singleton",
+            "scope": "global",
+            "$longname": "singleton",
+            "$kind": "property",
+            "id": 606,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param config\r\n     */",
+            "meta": {
+                "range": [
+                    1254,
+                    1396
+                ],
+                "filename": "IdGenerator.mjs",
+                "lineno": 46,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {
+                    "id": "astnode100022174",
+                    "name": "IdGenerator",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "config"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "config"
+                }
+            ],
+            "name": "IdGenerator",
+            "longname": "IdGenerator",
+            "kind": "class",
+            "scope": "global",
+            "$longname": "IdGenerator",
+            "$kind": "constructor",
+            "id": 607,
+            "neoClassName": "Neo.core.IdGenerator"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param name\r\n     * @returns {string}\r\n     */",
+            "meta": {
+                "range": [
+                    1519,
+                    1789
+                ],
+                "filename": "IdGenerator.mjs",
+                "lineno": 64,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "code": {
+                    "id": "astnode100022209",
+                    "name": "IdGenerator#getId",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "name"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "name"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "string"
+                        ]
+                    }
+                }
+            ],
+            "name": "getId",
+            "longname": "IdGenerator#getId",
+            "kind": "function",
+            "memberof": "IdGenerator",
+            "scope": "instance",
+            "$longname": "IdGenerator#getId",
+            "$kind": "method",
+            "id": 608,
+            "neoClassName": "Neo.core.IdGenerator"
+        }
+    ]
+}

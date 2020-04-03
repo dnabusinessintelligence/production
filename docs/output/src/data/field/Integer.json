@@ -1,0 +1,166 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.data.field.Integer\r\n * @extends Neo.data.field.Field\r\n */",
+            "meta": {
+                "filename": "Integer.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Integer",
+            "augments": [
+                "Neo.data.field.Field"
+            ],
+            "memberof": "Neo.data.field",
+            "longname": "Neo.data.field.Integer",
+            "scope": "static",
+            "$longname": "Neo.data.field.Integer",
+            "$kind": "class",
+            "id": 678,
+            "neoClassName": "Neo.data.field.Integer"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.data.field.Integer'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Integer.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.data.field.Integer'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 679,
+            "neoClassName": "Neo.data.field.Integer"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='data-field-integer'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Integer.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'data-field-integer'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 680,
+            "neoClassName": "Neo.data.field.Integer"
+        },
+        {
+            "comment": "/**\r\n         * @member {Number|null} defaultValue=0\r\n         */",
+            "meta": {
+                "filename": "Integer.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "defaultValue",
+            "type": {
+                "names": [
+                    "Number",
+                    "null"
+                ]
+            },
+            "defaultvalue": 0,
+            "longname": "defaultValue",
+            "scope": "global",
+            "$longname": "defaultValue",
+            "$kind": "property",
+            "id": 681,
+            "neoClassName": "Neo.data.field.Integer"
+        },
+        {
+            "comment": "/**\r\n     * Triggered before the value config gets changed.\r\n     * @param {Number|null} value\r\n     * @param {Number|null} oldValue\r\n     * @returns {Number}\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    786,
+                    1057
+                ],
+                "filename": "Integer.mjs",
+                "lineno": 32,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {
+                    "id": "astnode100024259",
+                    "name": "IntegerField#beforeSetValue",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "value",
+                        "oldValue"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Triggered before the value config gets changed.",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Number",
+                            "null"
+                        ]
+                    },
+                    "name": "value"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Number",
+                            "null"
+                        ]
+                    },
+                    "name": "oldValue"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    }
+                }
+            ],
+            "access": "private",
+            "name": "beforeSetValue",
+            "longname": "IntegerField#beforeSetValue",
+            "kind": "function",
+            "memberof": "IntegerField",
+            "scope": "instance",
+            "$longname": "IntegerField#beforeSetValue",
+            "$kind": "method",
+            "id": 682,
+            "neoClassName": "Neo.data.field.Integer"
+        }
+    ]
+}

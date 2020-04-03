@@ -1,0 +1,422 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * Utility class for Matrix based calculations\r\n * @class Neo.util.Matrix\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "Matrix.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "description": "Utility class for Matrix based calculations",
+            "kind": "class",
+            "name": "Matrix",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.util",
+            "longname": "Neo.util.Matrix",
+            "scope": "static",
+            "$longname": "Neo.util.Matrix",
+            "$kind": "class",
+            "id": 1924,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.util.Matrix'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Matrix.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.util.Matrix'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1925,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array|null} items_=null\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Matrix.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "items_",
+            "type": {
+                "names": [
+                    "Array",
+                    "null"
+                ]
+            },
+            "defaultvalue": null,
+            "access": "private",
+            "longname": "items_",
+            "scope": "global",
+            "$longname": "items_",
+            "$kind": "property",
+            "id": 1926,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     * Returns the element (i,j) of the matrix\r\n     * @param i\r\n     * @param j\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    607,
+                    817
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 28,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060424",
+                    "name": "Matrix#getElement",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "i",
+                        "j"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns the element (i,j) of the matrix",
+            "params": [
+                {
+                    "name": "i"
+                },
+                {
+                    "name": "j"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "getElement",
+            "longname": "Matrix#getElement",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "instance",
+            "$longname": "Matrix#getElement",
+            "$kind": "method",
+            "id": 1927,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     * shortcut for getElement\r\n     */",
+            "meta": {
+                "range": [
+                    875,
+                    930
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 41,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060471",
+                    "name": "Matrix#e",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "i",
+                        "j"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "shortcut for getElement",
+            "name": "e",
+            "longname": "Matrix#e",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Matrix#e",
+            "$kind": "method",
+            "id": 1928,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     * Returns the result of multiplying the matrix from the right by the argument.\r\n     * @param matrix\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    1084,
+                    1880
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 50,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060484",
+                    "name": "Matrix#multiply",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "matrix"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns the result of multiplying the matrix from the right by the argument.",
+            "params": [
+                {
+                    "name": "matrix"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "multiply",
+            "longname": "Matrix#multiply",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "instance",
+            "$longname": "Matrix#multiply",
+            "$kind": "method",
+            "id": 1929,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     * shortcut for multiply\r\n     */",
+            "meta": {
+                "range": [
+                    1936,
+                    1993
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 86,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060620",
+                    "name": "Matrix#x",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "matrix"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "shortcut for multiply",
+            "name": "x",
+            "longname": "Matrix#x",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Matrix#x",
+            "$kind": "method",
+            "id": 1930,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param t\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    2065,
+                    2294
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 95,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060631",
+                    "name": "Matrix.rotateX",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "t"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "t"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "rotateX",
+            "longname": "Matrix.rotateX",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "static",
+            "$longname": "Matrix.rotateX",
+            "$kind": "method",
+            "id": 1931,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param t\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    2366,
+                    2595
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 112,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060674",
+                    "name": "Matrix.rotateY",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "t"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "t"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "rotateY",
+            "longname": "Matrix.rotateY",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "static",
+            "$longname": "Matrix.rotateY",
+            "$kind": "method",
+            "id": 1932,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param t\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    2667,
+                    2896
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 129,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060717",
+                    "name": "Matrix.rotateZ",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "t"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "t"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "rotateZ",
+            "longname": "Matrix.rotateZ",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "static",
+            "$longname": "Matrix.rotateZ",
+            "$kind": "method",
+            "id": 1933,
+            "neoClassName": "Neo.util.Matrix"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    2930,
+                    3612
+                ],
+                "filename": "Matrix.mjs",
+                "lineno": 144,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100060760",
+                    "name": "Matrix#getTransformStyle",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "getTransformStyle",
+            "longname": "Matrix#getTransformStyle",
+            "kind": "function",
+            "memberof": "Matrix",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Matrix#getTransformStyle",
+            "$kind": "method",
+            "id": 1934,
+            "neoClassName": "Neo.util.Matrix"
+        }
+    ]
+}

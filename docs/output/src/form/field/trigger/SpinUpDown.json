@@ -1,0 +1,178 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * Combines spin up & down inside one trigger\r\n * @class Neo.form.field.trigger.SpinUpDown\r\n * @extends Neo.form.field.trigger.Base\r\n */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "description": "Combines spin up & down inside one trigger",
+            "kind": "class",
+            "name": "SpinUpDown",
+            "augments": [
+                "Neo.form.field.trigger.Base"
+            ],
+            "memberof": "Neo.form.field.trigger",
+            "longname": "Neo.form.field.trigger.SpinUpDown",
+            "scope": "static",
+            "$longname": "Neo.form.field.trigger.SpinUpDown",
+            "$kind": "class",
+            "id": 1108,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.form.field.trigger.SpinUpDown'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.form.field.trigger.SpinUpDown'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1109,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='trigger-spinupdown'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'trigger-spinupdown'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1110,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        },
+        {
+            "comment": "/**\r\n         * @member {String[]} cls=['neo-field-trigger', 'neo-spin-buttons']\r\n         */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array.<String>"
+                ]
+            },
+            "defaultvalue": "['neo-field-trigger', 'neo-spin-buttons']\r",
+            "description": "'neo-spin-buttons']",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1111,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} spinButtonDownIconCls='fa fa-chevron-down'\r\n         */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 27,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "spinButtonDownIconCls",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'fa",
+            "description": "fa-chevron-down'",
+            "longname": "spinButtonDownIconCls",
+            "scope": "global",
+            "$longname": "spinButtonDownIconCls",
+            "$kind": "property",
+            "id": 1112,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} spinButtonUpIconCls='fa fa-chevron-up'\r\n         */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 31,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "spinButtonUpIconCls",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'fa",
+            "description": "fa-chevron-up'",
+            "longname": "spinButtonUpIconCls",
+            "scope": "global",
+            "$longname": "spinButtonUpIconCls",
+            "$kind": "property",
+            "id": 1113,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        },
+        {
+            "comment": "/**\r\n         * Internal flag used by field.getTrigger()\r\n         * @member {String} type='spinupdown'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "SpinUpDown.mjs",
+                "lineno": 37,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "description": "Internal flag used by field.getTrigger()",
+            "kind": "member",
+            "name": "type",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'spinupdown'",
+            "access": "private",
+            "longname": "type",
+            "scope": "global",
+            "$longname": "type",
+            "$kind": "property",
+            "id": 1114,
+            "neoClassName": "Neo.form.field.trigger.SpinUpDown"
+        }
+    ]
+}

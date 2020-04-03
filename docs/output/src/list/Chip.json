@@ -1,0 +1,329 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.list.Chip\r\n * @extends Neo.list.Base\r\n */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 4,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Chip",
+            "augments": [
+                "Neo.list.Base"
+            ],
+            "memberof": "Neo.list",
+            "longname": "Neo.list.Chip",
+            "scope": "static",
+            "$longname": "Neo.list.Chip",
+            "$kind": "class",
+            "id": 1256,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.list.Chip'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.list.Chip'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1257,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='chiplist'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'chiplist'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1258,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object|null} chipConfig=null\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "chipConfig",
+            "type": {
+                "names": [
+                    "Object",
+                    "null"
+                ]
+            },
+            "defaultvalue": null,
+            "longname": "chipConfig",
+            "scope": "global",
+            "$longname": "chipConfig",
+            "$kind": "property",
+            "id": 1259,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * @member {String[]} cls=['neo-chip-list', 'neo-list']\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 27,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array.<String>"
+                ]
+            },
+            "defaultvalue": "['neo-chip-list', 'neo-list']\r",
+            "description": "'neo-list']",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1260,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} itemCls='neo-chip'\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 31,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "itemCls",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'neo-chip'",
+            "longname": "itemCls",
+            "scope": "global",
+            "$longname": "itemCls",
+            "$kind": "property",
+            "id": 1261,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * True will flex each list item horizontally\r\n         * @member {Boolean} stacked_=true\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 36,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "description": "True will flex each list item horizontally",
+            "kind": "member",
+            "name": "stacked_",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "longname": "stacked_",
+            "scope": "global",
+            "$longname": "stacked_",
+            "$kind": "property",
+            "id": 1262,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} _vdom\r\n         */",
+            "meta": {
+                "filename": "Chip.mjs",
+                "lineno": 40,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_vdom",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "longname": "_vdom",
+            "scope": "global",
+            "$longname": "_vdom",
+            "$kind": "property",
+            "id": 1263,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n     * Triggered after the stacked config got changed\r\n     * @param {Boolean} value\r\n     * @param {Boolean} oldValue\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1276,
+                    1640
+                ],
+                "filename": "Chip.mjs",
+                "lineno": 51,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {
+                    "id": "astnode100036276",
+                    "name": "Chip#afterSetStacked",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "value",
+                        "oldValue"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Triggered after the stacked config got changed",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "name": "value"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "name": "oldValue"
+                }
+            ],
+            "access": "private",
+            "name": "afterSetStacked",
+            "longname": "Chip#afterSetStacked",
+            "kind": "function",
+            "memberof": "Chip",
+            "scope": "instance",
+            "$longname": "Chip#afterSetStacked",
+            "$kind": "method",
+            "id": 1264,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n     * @param {Boolean} [silent=false]\r\n     */",
+            "meta": {
+                "range": [
+                    1706,
+                    2528
+                ],
+                "filename": "Chip.mjs",
+                "lineno": 66,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {
+                    "id": "astnode100036331",
+                    "name": "Chip#createItems",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "silent"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "optional": true,
+                    "defaultvalue": false,
+                    "name": "silent"
+                }
+            ],
+            "name": "createItems",
+            "longname": "Chip#createItems",
+            "kind": "function",
+            "memberof": "Chip",
+            "scope": "instance",
+            "$longname": "Chip#createItems",
+            "$kind": "method",
+            "id": 1265,
+            "neoClassName": "Neo.list.Chip"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    2562,
+                    2826
+                ],
+                "filename": "Chip.mjs",
+                "lineno": 99,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\list",
+                "code": {
+                    "id": "astnode100036449",
+                    "name": "Chip#destroy",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "destroy",
+            "longname": "Chip#destroy",
+            "kind": "function",
+            "memberof": "Chip",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Chip#destroy",
+            "$kind": "method",
+            "id": 1266,
+            "neoClassName": "Neo.list.Chip"
+        }
+    ]
+}

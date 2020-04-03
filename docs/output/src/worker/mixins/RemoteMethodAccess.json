@@ -1,0 +1,349 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.worker.mixins.RemoteMethodAccess\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "RemoteMethodAccess",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.worker.mixins",
+            "longname": "Neo.worker.mixins.RemoteMethodAccess",
+            "scope": "static",
+            "$longname": "Neo.worker.mixins.RemoteMethodAccess",
+            "$kind": "class",
+            "id": 2048,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.worker.mixins.RemoteMethodAccess'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.worker.mixins.RemoteMethodAccess'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 2049,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='mixin-remote-method-access'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'mixin-remote-method-access'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 2050,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} mixin=true\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "mixin",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "access": "private",
+            "longname": "mixin",
+            "scope": "global",
+            "$longname": "mixin",
+            "$kind": "property",
+            "id": 2051,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} remote\r\n     * @param method\r\n     * @returns {function(*=, *=): Promise<any>}\r\n     */",
+            "meta": {
+                "range": [
+                    797,
+                    1284
+                ],
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 32,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {
+                    "id": "astnode100066641",
+                    "name": "RemoteMethodAccess#generateRemote",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "remote",
+                        "method"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "remote"
+                },
+                {
+                    "name": "method"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "function"
+                        ]
+                    }
+                }
+            ],
+            "name": "generateRemote",
+            "longname": "RemoteMethodAccess#generateRemote",
+            "kind": "function",
+            "memberof": "RemoteMethodAccess",
+            "scope": "instance",
+            "$longname": "RemoteMethodAccess#generateRemote",
+            "$kind": "method",
+            "id": 2052,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} remote\r\n     */",
+            "meta": {
+                "range": [
+                    1349,
+                    2035
+                ],
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 52,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {
+                    "id": "astnode100066685",
+                    "name": "RemoteMethodAccess#onRegisterRemote",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "remote"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "remote"
+                }
+            ],
+            "name": "onRegisterRemote",
+            "longname": "RemoteMethodAccess#onRegisterRemote",
+            "kind": "function",
+            "memberof": "RemoteMethodAccess",
+            "scope": "instance",
+            "$longname": "RemoteMethodAccess#onRegisterRemote",
+            "$kind": "method",
+            "id": 2053,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} msg\r\n     */",
+            "meta": {
+                "range": [
+                    2097,
+                    2972
+                ],
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 77,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {
+                    "id": "astnode100066769",
+                    "name": "RemoteMethodAccess#onRemoteMethod",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "msg"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "msg"
+                }
+            ],
+            "name": "onRemoteMethod",
+            "longname": "RemoteMethodAccess#onRemoteMethod",
+            "kind": "function",
+            "memberof": "RemoteMethodAccess",
+            "scope": "instance",
+            "$longname": "RemoteMethodAccess#onRemoteMethod",
+            "$kind": "method",
+            "id": 2054,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n     * Gets called when promiseMessage gets rejected\r\n     * @param {Object} msg\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    3109,
+                    3304
+                ],
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 115,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {
+                    "id": "astnode100066901",
+                    "name": "RemoteMethodAccess#reject",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "msg",
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Gets called when promiseMessage gets rejected",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "msg"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "reject",
+            "longname": "RemoteMethodAccess#reject",
+            "kind": "function",
+            "memberof": "RemoteMethodAccess",
+            "scope": "instance",
+            "$longname": "RemoteMethodAccess#reject",
+            "$kind": "method",
+            "id": 2055,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        },
+        {
+            "comment": "/**\r\n     * Gets called when promiseMessage gets resolved\r\n     * @param {Object} msg\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    3441,
+                    3609
+                ],
+                "filename": "RemoteMethodAccess.mjs",
+                "lineno": 129,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\worker\\mixins",
+                "code": {
+                    "id": "astnode100066926",
+                    "name": "RemoteMethodAccess#resolve",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "msg",
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Gets called when promiseMessage gets resolved",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "msg"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "resolve",
+            "longname": "RemoteMethodAccess#resolve",
+            "kind": "function",
+            "memberof": "RemoteMethodAccess",
+            "scope": "instance",
+            "$longname": "RemoteMethodAccess#resolve",
+            "$kind": "method",
+            "id": 2056,
+            "neoClassName": "Neo.worker.mixins.RemoteMethodAccess"
+        }
+    ]
+}

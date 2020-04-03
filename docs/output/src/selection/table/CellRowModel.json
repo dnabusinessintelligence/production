@@ -1,0 +1,448 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.selection.table.CellRowModel\r\n * @extends Neo.selection.table.CellModel\r\n */",
+            "meta": {
+                "filename": "CellRowModel.mjs",
+                "lineno": 6,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "CellRowModel",
+            "augments": [
+                "Neo.selection.table.CellModel"
+            ],
+            "memberof": "Neo.selection.table",
+            "longname": "Neo.selection.table.CellRowModel",
+            "scope": "static",
+            "$longname": "Neo.selection.table.CellRowModel",
+            "$kind": "class",
+            "id": 1631,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.selection.table.CellRowModel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "CellRowModel.mjs",
+                "lineno": 16,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.selection.table.CellRowModel'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1632,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='selection-table-cellrowmodel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "CellRowModel.mjs",
+                "lineno": 21,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'selection-table-cellrowmodel'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1633,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} cls='neo-selection-cellrowmodel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "CellRowModel.mjs",
+                "lineno": 26,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'neo-selection-cellrowmodel'",
+            "access": "private",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1634,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array|null} selectedRowIds=null\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "CellRowModel.mjs",
+                "lineno": 31,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "selectedRowIds",
+            "type": {
+                "names": [
+                    "Array",
+                    "null"
+                ]
+            },
+            "defaultvalue": null,
+            "access": "private",
+            "longname": "selectedRowIds",
+            "scope": "global",
+            "$longname": "selectedRowIds",
+            "$kind": "property",
+            "id": 1635,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} config\r\n     */",
+            "meta": {
+                "range": [
+                    1089,
+                    1178
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 38,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052551",
+                    "name": "CellRowModel",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "config"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "config"
+                }
+            ],
+            "name": "CellRowModel",
+            "longname": "CellRowModel",
+            "kind": "class",
+            "scope": "global",
+            "$longname": "CellRowModel",
+            "$kind": "constructor",
+            "id": 1636,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Boolean} [silent] true to prevent a vdom update\r\n     */",
+            "meta": {
+                "range": [
+                    1276,
+                    1606
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 48,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052566",
+                    "name": "CellRowModel#deselectAllRows",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "silent"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "optional": true,
+                    "description": "true to prevent a vdom update",
+                    "name": "silent"
+                }
+            ],
+            "name": "deselectAllRows",
+            "longname": "CellRowModel#deselectAllRows",
+            "kind": "function",
+            "memberof": "CellRowModel",
+            "scope": "instance",
+            "$longname": "CellRowModel#deselectAllRows",
+            "$kind": "method",
+            "id": 1637,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {String} rowId\r\n     * @param {Boolean} [silent] true to prevent a vdom update\r\n     */",
+            "meta": {
+                "range": [
+                    1734,
+                    2190
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 68,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052617",
+                    "name": "CellRowModel#deselectRow",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "rowId",
+                        "silent"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "rowId"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "optional": true,
+                    "description": "true to prevent a vdom update",
+                    "name": "silent"
+                }
+            ],
+            "name": "deselectRow",
+            "longname": "CellRowModel#deselectRow",
+            "kind": "function",
+            "memberof": "CellRowModel",
+            "scope": "instance",
+            "$longname": "CellRowModel#deselectRow",
+            "$kind": "method",
+            "id": 1638,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    2253,
+                    2582
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 92,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052691",
+                    "name": "CellRowModel#onCellClick",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "onCellClick",
+            "longname": "CellRowModel#onCellClick",
+            "kind": "function",
+            "memberof": "CellRowModel",
+            "scope": "instance",
+            "$longname": "CellRowModel#onCellClick",
+            "$kind": "method",
+            "id": 1639,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} data\r\n     * @param {Number} step\r\n     */",
+            "meta": {
+                "range": [
+                    2674,
+                    3349
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 110,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052737",
+                    "name": "CellRowModel#onNavKeyRow",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data",
+                        "step"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "name": "step"
+                }
+            ],
+            "name": "onNavKeyRow",
+            "longname": "CellRowModel#onNavKeyRow",
+            "kind": "function",
+            "memberof": "CellRowModel",
+            "scope": "instance",
+            "$longname": "CellRowModel#onNavKeyRow",
+            "$kind": "method",
+            "id": 1640,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {String} id\r\n     * @param {Boolean} [silent]\r\n     */",
+            "meta": {
+                "range": [
+                    3444,
+                    3912
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 139,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052841",
+                    "name": "CellRowModel#selectRow",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "id",
+                        "silent"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "id"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "optional": true,
+                    "name": "silent"
+                }
+            ],
+            "name": "selectRow",
+            "longname": "CellRowModel#selectRow",
+            "kind": "function",
+            "memberof": "CellRowModel",
+            "scope": "instance",
+            "$longname": "CellRowModel#selectRow",
+            "$kind": "method",
+            "id": 1641,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    3946,
+                    4029
+                ],
+                "filename": "CellRowModel.mjs",
+                "lineno": 162,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\selection\\table",
+                "code": {
+                    "id": "astnode100052916",
+                    "name": "CellRowModel#unregister",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "unregister",
+            "longname": "CellRowModel#unregister",
+            "kind": "function",
+            "memberof": "CellRowModel",
+            "scope": "instance",
+            "params": [],
+            "$longname": "CellRowModel#unregister",
+            "$kind": "method",
+            "id": 1642,
+            "neoClassName": "Neo.selection.table.CellRowModel"
+        }
+    ]
+}

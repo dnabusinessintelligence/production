@@ -1,0 +1,283 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * Basic CRUD support for window.localStorage\r\n * @class Neo.main.mixins.LocalStorage\r\n * @extends Neo.core.Base\r\n * @singleton\r\n */",
+            "meta": {
+                "filename": "LocalStorage.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {}
+            },
+            "description": "Basic CRUD support for window.localStorage",
+            "kind": "class",
+            "name": "LocalStorage",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "tags": [
+                {
+                    "originalTitle": "singleton",
+                    "title": "singleton",
+                    "text": ""
+                }
+            ],
+            "memberof": "Neo.main.mixins",
+            "longname": "Neo.main.mixins.LocalStorage",
+            "scope": "static",
+            "$longname": "Neo.main.mixins.LocalStorage",
+            "$kind": "class",
+            "id": 1404,
+            "neoClassName": "Neo.main.mixins.LocalStorage"
+        },
+        {
+            "comment": "/**\r\n             * @member {String} className='Neo.main.mixins.LocalStorage'\r\n             * @private\r\n             */",
+            "meta": {
+                "filename": "LocalStorage.mjs",
+                "lineno": 16,
+                "columnno": 12,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.main.mixins.LocalStorage'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1405,
+            "neoClassName": "Neo.main.mixins.LocalStorage"
+        },
+        {
+            "comment": "/**\r\n     * Creates a new item into window.localStorage\r\n     * Uses updateLocalStorageItem() internally\r\n     * @param {Object} opts\r\n     * @param {String} opts.key\r\n     * @param {String} opts.value\r\n     */",
+            "meta": {
+                "range": [
+                    689,
+                    770
+                ],
+                "filename": "LocalStorage.mjs",
+                "lineno": 27,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {
+                    "id": "astnode100042602",
+                    "name": "LocalStorage#createLocalStorageItem",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "opts"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Creates a new item into window.localStorage\rUses updateLocalStorageItem() internally",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "opts"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "opts.key"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "opts.value"
+                }
+            ],
+            "name": "createLocalStorageItem",
+            "longname": "LocalStorage#createLocalStorageItem",
+            "kind": "function",
+            "memberof": "LocalStorage",
+            "scope": "instance",
+            "$longname": "LocalStorage#createLocalStorageItem",
+            "$kind": "method",
+            "id": 1406,
+            "neoClassName": "Neo.main.mixins.LocalStorage"
+        },
+        {
+            "comment": "/**\r\n     * Removes an item from window.localStorage\r\n     * @param {Object} opts\r\n     * @param {String} opts.key\r\n     */",
+            "meta": {
+                "range": [
+                    907,
+                    996
+                ],
+                "filename": "LocalStorage.mjs",
+                "lineno": 36,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {
+                    "id": "astnode100042613",
+                    "name": "LocalStorage#destroyLocalStorageItem",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "opts"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Removes an item from window.localStorage",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "opts"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "opts.key"
+                }
+            ],
+            "name": "destroyLocalStorageItem",
+            "longname": "LocalStorage#destroyLocalStorageItem",
+            "kind": "function",
+            "memberof": "LocalStorage",
+            "scope": "instance",
+            "$longname": "LocalStorage#destroyLocalStorageItem",
+            "$kind": "method",
+            "id": 1407,
+            "neoClassName": "Neo.main.mixins.LocalStorage"
+        },
+        {
+            "comment": "/**\r\n     * Gets an item from window.localStorage\r\n     * @param {Object} opts\r\n     * @param {String} opts.key\r\n     */",
+            "meta": {
+                "range": [
+                    1130,
+                    1282
+                ],
+                "filename": "LocalStorage.mjs",
+                "lineno": 45,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {
+                    "id": "astnode100042628",
+                    "name": "LocalStorage#readLocalStorageItem",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "opts"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Gets an item from window.localStorage",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "opts"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "opts.key"
+                }
+            ],
+            "name": "readLocalStorageItem",
+            "longname": "LocalStorage#readLocalStorageItem",
+            "kind": "function",
+            "memberof": "LocalStorage",
+            "scope": "instance",
+            "$longname": "LocalStorage#readLocalStorageItem",
+            "$kind": "method",
+            "id": 1408,
+            "neoClassName": "Neo.main.mixins.LocalStorage"
+        },
+        {
+            "comment": "/**\r\n     * Reads an item from window.localStorage\r\n     * @param {Object} opts\r\n     * @param {String} opts.key\r\n     * @param {String} opts.value\r\n     */",
+            "meta": {
+                "range": [
+                    1452,
+                    1549
+                ],
+                "filename": "LocalStorage.mjs",
+                "lineno": 58,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {
+                    "id": "astnode100042649",
+                    "name": "LocalStorage#updateLocalStorageItem",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "opts"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Reads an item from window.localStorage",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "opts"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "opts.key"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "opts.value"
+                }
+            ],
+            "name": "updateLocalStorageItem",
+            "longname": "LocalStorage#updateLocalStorageItem",
+            "kind": "function",
+            "memberof": "LocalStorage",
+            "scope": "instance",
+            "$longname": "LocalStorage#updateLocalStorageItem",
+            "$kind": "method",
+            "id": 1409,
+            "neoClassName": "Neo.main.mixins.LocalStorage"
+        }
+    ]
+}

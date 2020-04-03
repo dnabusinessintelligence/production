@@ -1,0 +1,632 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.util.Array\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "Array.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Array",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.util",
+            "longname": "Neo.util.Array",
+            "scope": "static",
+            "$longname": "Neo.util.Array",
+            "$kind": "class",
+            "id": 1864,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.util.Array'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Array.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.util.Array'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1865,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Adds an item or Array of items to an array in case it does not already exist.\r\n     * Only primitive items will get found as duplicates\r\n     * @param {Array} arr\r\n     * @param {*} items\r\n     */",
+            "meta": {
+                "range": [
+                    536,
+                    782
+                ],
+                "filename": "Array.mjs",
+                "lineno": 22,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100058936",
+                    "name": "NeoArray.add",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "arr",
+                        "items"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Adds an item or Array of items to an array in case it does not already exist.\rOnly primitive items will get found as duplicates",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "arr"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    },
+                    "name": "items"
+                }
+            ],
+            "name": "add",
+            "longname": "NeoArray.add",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.add",
+            "$kind": "method",
+            "id": 1866,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Returns an array of items which are present in array1, but not in array2\r\n     * @param {Array} array1=[]\r\n     * @param {Array} array2=[]\r\n     * @returns {Array}\r\n     */",
+            "meta": {
+                "range": [
+                    980,
+                    1091
+                ],
+                "filename": "Array.mjs",
+                "lineno": 40,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100058977",
+                    "name": "NeoArray.difference",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "array1",
+                        "array2"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns an array of items which are present in array1, but not in array2",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "defaultvalue": "[",
+                    "name": "array1"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "defaultvalue": "[",
+                    "name": "array2"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    }
+                }
+            ],
+            "name": "difference",
+            "longname": "NeoArray.difference",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.difference",
+            "$kind": "method",
+            "id": 1867,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Checks if the index of item is > -1\r\n     * @param {Array} arr\r\n     * @param {*} item\r\n     */",
+            "meta": {
+                "range": [
+                    1212,
+                    1282
+                ],
+                "filename": "Array.mjs",
+                "lineno": 49,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059000",
+                    "name": "NeoArray.hasItem",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "arr",
+                        "item"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Checks if the index of item is > -1",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "arr"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    },
+                    "name": "item"
+                }
+            ],
+            "name": "hasItem",
+            "longname": "NeoArray.hasItem",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.hasItem",
+            "$kind": "method",
+            "id": 1868,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Returns an array of items which are present in array1 and array2\r\n     * Only supports primitive items\r\n     * @param {Array} array1=[]\r\n     * @param {Array} array2=[]\r\n     * @returns {Array}\r\n     */",
+            "meta": {
+                "range": [
+                    1510,
+                    1622
+                ],
+                "filename": "Array.mjs",
+                "lineno": 60,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059012",
+                    "name": "NeoArray.intersection",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "array1",
+                        "array2"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns an array of items which are present in array1 and array2\rOnly supports primitive items",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "defaultvalue": "[",
+                    "name": "array1"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "defaultvalue": "[",
+                    "name": "array2"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    }
+                }
+            ],
+            "name": "intersection",
+            "longname": "NeoArray.intersection",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.intersection",
+            "$kind": "method",
+            "id": 1869,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Returns true if all items of array1 are present in array 2\r\n     * Supports Arrays containing Objects, not Arrays containing Arrays\r\n     * @param {Array} array1=[]\r\n     * @param {Array} array2=[]\r\n     * @returns {Boolean}\r\n     */",
+            "meta": {
+                "range": [
+                    1881,
+                    2751
+                ],
+                "filename": "Array.mjs",
+                "lineno": 71,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059034",
+                    "name": "NeoArray.isEqual",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "array1",
+                        "array2"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns true if all items of array1 are present in array 2\rSupports Arrays containing Objects, not Arrays containing Arrays",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "defaultvalue": "[",
+                    "name": "array1"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "defaultvalue": "[",
+                    "name": "array2"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    }
+                }
+            ],
+            "name": "isEqual",
+            "longname": "NeoArray.isEqual",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.isEqual",
+            "$kind": "method",
+            "id": 1870,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Moves an item inside arr from fromIndex to toIndex\r\n     * @param {Array} arr\r\n     * @param {Number} fromIndex\r\n     * @param {Number} toIndex\r\n     */",
+            "meta": {
+                "range": [
+                    2929,
+                    3227
+                ],
+                "filename": "Array.mjs",
+                "lineno": 110,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059150",
+                    "name": "NeoArray.move",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "arr",
+                        "fromIndex",
+                        "toIndex"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Moves an item inside arr from fromIndex to toIndex",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "arr"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "name": "fromIndex"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "name": "toIndex"
+                }
+            ],
+            "name": "move",
+            "longname": "NeoArray.move",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.move",
+            "$kind": "method",
+            "id": 1871,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Removes an item or array of items from an array. Only primitive items will get found\r\n     * @param {Array} arr\r\n     * @param {*} items\r\n     */",
+            "meta": {
+                "range": [
+                    3398,
+                    3708
+                ],
+                "filename": "Array.mjs",
+                "lineno": 128,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059196",
+                    "name": "NeoArray.remove",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "arr",
+                        "items"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Removes an item or array of items from an array. Only primitive items will get found",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "arr"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    },
+                    "name": "items"
+                }
+            ],
+            "name": "remove",
+            "longname": "NeoArray.remove",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.remove",
+            "$kind": "method",
+            "id": 1872,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Removes an item from an array in case it does  exist, otherwise adds it\r\n     * @param {Array} arr\r\n     * @param {*} item\r\n     */",
+            "meta": {
+                "range": [
+                    3865,
+                    4038
+                ],
+                "filename": "Array.mjs",
+                "lineno": 149,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059247",
+                    "name": "NeoArray.toggle",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "arr",
+                        "item"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Removes an item from an array in case it does  exist, otherwise adds it",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "arr"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    },
+                    "name": "item"
+                }
+            ],
+            "name": "toggle",
+            "longname": "NeoArray.toggle",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.toggle",
+            "$kind": "method",
+            "id": 1873,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Returns an array of items which are present in array1 and array2\r\n     * Only supports primitive items\r\n     * @param {Array} array1\r\n     * @param {Array} array2\r\n     * @returns {Array}\r\n     */",
+            "meta": {
+                "range": [
+                    4260,
+                    4671
+                ],
+                "filename": "Array.mjs",
+                "lineno": 164,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059276",
+                    "name": "NeoArray.union",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "array1",
+                        "array2"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns an array of items which are present in array1 and array2\rOnly supports primitive items",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "array1"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "array2"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    }
+                }
+            ],
+            "name": "union",
+            "longname": "NeoArray.union",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.union",
+            "$kind": "method",
+            "id": 1874,
+            "neoClassName": "Neo.util.Array"
+        },
+        {
+            "comment": "/**\r\n     * Adds an item or Array of items to an array in case it does not already exist.\r\n     * Only primitive items will get found as duplicates\r\n     * @param {Array} arr\r\n     * @param {*} items\r\n     */",
+            "meta": {
+                "range": [
+                    4893,
+                    5146
+                ],
+                "filename": "Array.mjs",
+                "lineno": 189,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059333",
+                    "name": "NeoArray.unshift",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "arr",
+                        "items"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Adds an item or Array of items to an array in case it does not already exist.\rOnly primitive items will get found as duplicates",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "arr"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    },
+                    "name": "items"
+                }
+            ],
+            "name": "unshift",
+            "longname": "NeoArray.unshift",
+            "kind": "function",
+            "memberof": "NeoArray",
+            "scope": "static",
+            "$longname": "NeoArray.unshift",
+            "$kind": "method",
+            "id": 1875,
+            "neoClassName": "Neo.util.Array"
+        }
+    ]
+}

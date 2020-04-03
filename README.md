@@ -1,1 +1,2 @@
-# production
+--npm run build-all
+--npm run server-start

@@ -1,0 +1,116 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.util.Style\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "Style.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Style",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.util",
+            "longname": "Neo.util.Style",
+            "scope": "static",
+            "$longname": "Neo.util.Style",
+            "$kind": "class",
+            "id": 1938,
+            "neoClassName": "Neo.util.Style"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.util.Style'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Style.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.util.Style'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1939,
+            "neoClassName": "Neo.util.Style"
+        },
+        {
+            "comment": "/**\r\n     * Creates an delta object, containing the styles of newStyle which are not included or different than in oldStyle\r\n     * Styles included in oldStyle but missing in newStyle will get a value of null\r\n     * see: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style\r\n     * @param {Object|String} newStyle\r\n     * @param {Object|String} oldStyle\r\n     * @returns {Object} style delta\r\n     */",
+            "meta": {
+                "range": [
+                    740,
+                    1945
+                ],
+                "filename": "Style.mjs",
+                "lineno": 24,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100061113",
+                    "name": "Style.compareStyles",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "newStyle",
+                        "oldStyle"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Creates an delta object, containing the styles of newStyle which are not included or different than in oldStyle\rStyles included in oldStyle but missing in newStyle will get a value of null\rsee: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object",
+                            "String"
+                        ]
+                    },
+                    "name": "newStyle"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Object",
+                            "String"
+                        ]
+                    },
+                    "name": "oldStyle"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "style delta"
+                }
+            ],
+            "name": "compareStyles",
+            "longname": "Style.compareStyles",
+            "kind": "function",
+            "memberof": "Style",
+            "scope": "static",
+            "$longname": "Style.compareStyles",
+            "$kind": "method",
+            "id": 1940,
+            "neoClassName": "Neo.util.Style"
+        }
+    ]
+}

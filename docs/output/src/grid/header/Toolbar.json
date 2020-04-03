@@ -1,0 +1,380 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.grid.header.Toolbar\r\n * @extends Neo.container.Toolbar\r\n */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Toolbar",
+            "augments": [
+                "Neo.container.Toolbar"
+            ],
+            "memberof": "Neo.grid.header",
+            "longname": "Neo.grid.header.Toolbar",
+            "scope": "static",
+            "$longname": "Neo.grid.header.Toolbar",
+            "$kind": "class",
+            "id": 1142,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.grid.header.Toolbar'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.grid.header.Toolbar'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1143,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='grid-header-toolbar'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'grid-header-toolbar'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1144,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} cls=['neo-grid-header-toolbar']\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "['neo-grid-header-toolbar']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1145,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} _layout='base'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 27,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_layout",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'base'",
+            "access": "private",
+            "longname": "_layout",
+            "scope": "global",
+            "$longname": "_layout",
+            "$kind": "property",
+            "id": 1146,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} itemDefaults={ntype:'grid-header-button'}\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 32,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "itemDefaults",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "defaultvalue": "{ntype:'grid-header-button'}\r",
+            "access": "private",
+            "longname": "itemDefaults",
+            "scope": "global",
+            "$longname": "itemDefaults",
+            "$kind": "property",
+            "id": 1147,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} _vdom\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 39,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_vdom",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "access": "private",
+            "longname": "_vdom",
+            "scope": "global",
+            "$longname": "_vdom",
+            "$kind": "property",
+            "id": 1148,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param dock\r\n     * @returns {String} layoutConfig\r\n     * @override\r\n     */",
+            "meta": {
+                "range": [
+                    1293,
+                    1347
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 53,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {
+                    "id": "astnode100033983",
+                    "name": "Toolbar#getLayoutConfig",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "dock"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "dock"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "description": "layoutConfig"
+                }
+            ],
+            "override": true,
+            "name": "getLayoutConfig",
+            "longname": "Toolbar#getLayoutConfig",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "$longname": "Toolbar#getLayoutConfig",
+            "$kind": "method",
+            "id": 1149,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @returns {Object}\r\n     */",
+            "meta": {
+                "range": [
+                    1407,
+                    1462
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 61,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {
+                    "id": "astnode100033990",
+                    "name": "Toolbar#getVdomRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    }
+                }
+            ],
+            "name": "getVdomRoot",
+            "longname": "Toolbar#getVdomRoot",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#getVdomRoot",
+            "$kind": "method",
+            "id": 1150,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @returns {Object}\r\n     */",
+            "meta": {
+                "range": [
+                    1522,
+                    1587
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 69,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {
+                    "id": "astnode100034002",
+                    "name": "Toolbar#getVnodeRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    }
+                }
+            ],
+            "name": "getVnodeRoot",
+            "longname": "Toolbar#getVnodeRoot",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#getVnodeRoot",
+            "$kind": "method",
+            "id": 1151,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Array} items\r\n     */",
+            "meta": {
+                "range": [
+                    1650,
+                    2212
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 77,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {
+                    "id": "astnode100034014",
+                    "name": "Toolbar#createItems",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "items"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "name": "items"
+                }
+            ],
+            "name": "createItems",
+            "longname": "Toolbar#createItems",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "$longname": "Toolbar#createItems",
+            "$kind": "method",
+            "id": 1152,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    2246,
+                    2324
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 106,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {
+                    "id": "astnode100034100",
+                    "name": "Toolbar#render",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "render",
+            "longname": "Toolbar#render",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#render",
+            "$kind": "method",
+            "id": 1153,
+            "neoClassName": "Neo.grid.header.Toolbar"
+        }
+    ]
+}

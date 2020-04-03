@@ -1,0 +1,330 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.util.VNode\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "VNode",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.util",
+            "longname": "Neo.util.VNode",
+            "scope": "static",
+            "$longname": "Neo.util.VNode",
+            "$kind": "class",
+            "id": 1955,
+            "neoClassName": "Neo.util.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.util.VNode'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.util.VNode'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1956,
+            "neoClassName": "Neo.util.VNode"
+        },
+        {
+            "comment": "/**\r\n     * Search vnode child nodes by id or opts object for a given vdom tree\r\n     * @param {Object} vnode\r\n     * @param {Object|String} opts Either an object containing vdom node attributes or a string based id\r\n     * @param {Number} [index] Internal flag, do not use it\r\n     * @param {Object} [parentNode] Internal flag, do not use it\r\n     * @returns {Object}\r\n     *     {Number} index\r\n     *     {String} parentId\r\n     *     {Object} vnode\r\n     */",
+            "meta": {
+                "range": [
+                    786,
+                    4576
+                ],
+                "filename": "VNode.mjs",
+                "lineno": 27,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100062203",
+                    "name": "VNode.findChildVnode",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "vnode",
+                        "opts",
+                        "index",
+                        "parentNode"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Search vnode child nodes by id or opts object for a given vdom tree",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "vnode"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Object",
+                            "String"
+                        ]
+                    },
+                    "description": "Either an object containing vdom node attributes or a string based id",
+                    "name": "opts"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "optional": true,
+                    "description": "Internal flag, do not use it",
+                    "name": "index"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "optional": true,
+                    "description": "Internal flag, do not use it",
+                    "name": "parentNode"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "{Number} index\r    {String} parentId\r    {Object} vnode"
+                }
+            ],
+            "name": "findChildVnode",
+            "longname": "VNode.findChildVnode",
+            "kind": "function",
+            "memberof": "VNode",
+            "scope": "static",
+            "$longname": "VNode.findChildVnode",
+            "$kind": "method",
+            "id": 1957,
+            "neoClassName": "Neo.util.VNode"
+        },
+        {
+            "comment": "/**\r\n     * Finds a child vnode inside a vnode tree by a given id\r\n     * @param {Object} vnode\r\n     * @param {String|null} id\r\n     * @returns {Object|null} child vnode or null\r\n     */",
+            "meta": {
+                "range": [
+                    4777,
+                    5392
+                ],
+                "filename": "VNode.mjs",
+                "lineno": 126,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100062571",
+                    "name": "VNode.findChildVnodeById",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "vnode",
+                        "id"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Finds a child vnode inside a vnode tree by a given id",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "vnode"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String",
+                            "null"
+                        ]
+                    },
+                    "name": "id"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object",
+                            "null"
+                        ]
+                    },
+                    "description": "child vnode or null"
+                }
+            ],
+            "name": "findChildVnodeById",
+            "longname": "VNode.findChildVnodeById",
+            "kind": "function",
+            "memberof": "VNode",
+            "scope": "static",
+            "$longname": "VNode.findChildVnodeById",
+            "$kind": "method",
+            "id": 1958,
+            "neoClassName": "Neo.util.VNode"
+        },
+        {
+            "comment": "/**\r\n     * Get the ids of all child nodes of the given vnode\r\n     * @param vnode\r\n     * @param [childIds=[]]\r\n     * @returns {Array} childIds\r\n     */",
+            "meta": {
+                "range": [
+                    5560,
+                    5912
+                ],
+                "filename": "VNode.mjs",
+                "lineno": 159,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100062642",
+                    "name": "VNode.getChildIds",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "vnode",
+                        "childIds"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Get the ids of all child nodes of the given vnode",
+            "params": [
+                {
+                    "name": "vnode"
+                },
+                {
+                    "optional": true,
+                    "defaultvalue": "[]",
+                    "name": "childIds"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Array"
+                        ]
+                    },
+                    "description": "childIds"
+                }
+            ],
+            "name": "getChildIds",
+            "longname": "VNode.getChildIds",
+            "kind": "function",
+            "memberof": "VNode",
+            "scope": "static",
+            "$longname": "VNode.getChildIds",
+            "$kind": "method",
+            "id": 1959,
+            "neoClassName": "Neo.util.VNode"
+        },
+        {
+            "comment": "/**\r\n     * Replaces a child vnode inside a vnode tree by a given id\r\n     * @param {Object} vnode\r\n     * @param {String} id\r\n     * @param {Object} newChildVnode\r\n     * @returns {Boolean} true in case the node was found and replaced\r\n     */",
+            "meta": {
+                "range": [
+                    6170,
+                    6883
+                ],
+                "filename": "VNode.mjs",
+                "lineno": 180,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100062692",
+                    "name": "VNode.replaceChildVnode",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "vnode",
+                        "id",
+                        "newChildVnode"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Replaces a child vnode inside a vnode tree by a given id",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "vnode"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "id"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "newChildVnode"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "description": "true in case the node was found and replaced"
+                }
+            ],
+            "name": "replaceChildVnode",
+            "longname": "VNode.replaceChildVnode",
+            "kind": "function",
+            "memberof": "VNode",
+            "scope": "static",
+            "$longname": "VNode.replaceChildVnode",
+            "$kind": "method",
+            "id": 1960,
+            "neoClassName": "Neo.util.VNode"
+        }
+    ]
+}

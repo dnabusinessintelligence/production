@@ -1,0 +1,267 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.util.Date\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "Date.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Date",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.util",
+            "longname": "Neo.util.Date",
+            "scope": "static",
+            "$longname": "Neo.util.Date",
+            "$kind": "class",
+            "id": 1882,
+            "neoClassName": "Neo.util.Date"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.util.Date'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Date.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.util.Date'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1883,
+            "neoClassName": "Neo.util.Date"
+        },
+        {
+            "comment": "/**\r\n     * Clones a Date instance using the same value\r\n     * @param {Date} date\r\n     * @return {Date} the cloned date object\r\n     */",
+            "meta": {
+                "range": [
+                    462,
+                    531
+                ],
+                "filename": "Date.mjs",
+                "lineno": 21,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059604",
+                    "name": "DateUtil.clone",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "date"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Clones a Date instance using the same value",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Date"
+                        ]
+                    },
+                    "name": "date"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Date"
+                        ]
+                    },
+                    "description": "the cloned date object"
+                }
+            ],
+            "name": "clone",
+            "longname": "DateUtil.clone",
+            "kind": "function",
+            "memberof": "DateUtil",
+            "scope": "static",
+            "$longname": "DateUtil.clone",
+            "$kind": "method",
+            "id": 1884,
+            "neoClassName": "Neo.util.Date"
+        },
+        {
+            "comment": "/**\r\n     * Returns the yyyy-mm-dd formated value of a given Date instance\r\n     * @param {Date} date\r\n     * @return {String} the yyyy-mm-dd formatted date\r\n     */",
+            "meta": {
+                "range": [
+                    710,
+                    856
+                ],
+                "filename": "Date.mjs",
+                "lineno": 30,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059616",
+                    "name": "DateUtil.convertToyyyymmdd",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "date"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns the yyyy-mm-dd formated value of a given Date instance",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Date"
+                        ]
+                    },
+                    "name": "date"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "description": "the yyyy-mm-dd formatted date"
+                }
+            ],
+            "name": "convertToyyyymmdd",
+            "longname": "DateUtil.convertToyyyymmdd",
+            "kind": "function",
+            "memberof": "DateUtil",
+            "scope": "static",
+            "$longname": "DateUtil.convertToyyyymmdd",
+            "$kind": "method",
+            "id": 1885,
+            "neoClassName": "Neo.util.Date"
+        },
+        {
+            "comment": "/**\r\n     * Returns the amount of days inside the month of a passed date object\r\n     * @param {Date} date\r\n     * @returns {Number} days inside the month\r\n     */",
+            "meta": {
+                "range": [
+                    1033,
+                    1149
+                ],
+                "filename": "Date.mjs",
+                "lineno": 39,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059644",
+                    "name": "DateUtil.getDaysInMonth",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "date"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns the amount of days inside the month of a passed date object",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Date"
+                        ]
+                    },
+                    "name": "date"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "description": "days inside the month"
+                }
+            ],
+            "name": "getDaysInMonth",
+            "longname": "DateUtil.getDaysInMonth",
+            "kind": "function",
+            "memberof": "DateUtil",
+            "scope": "static",
+            "$longname": "DateUtil.getDaysInMonth",
+            "$kind": "method",
+            "id": 1886,
+            "neoClassName": "Neo.util.Date"
+        },
+        {
+            "comment": "/**\r\n     * Returns the day number of the first day of a passed date object\r\n     * @param {Date} date\r\n     * @returns {Number} 0-6 (Sun-Sat)\r\n     */",
+            "meta": {
+                "range": [
+                    1314,
+                    1429
+                ],
+                "filename": "Date.mjs",
+                "lineno": 48,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "code": {
+                    "id": "astnode100059666",
+                    "name": "DateUtil.getFirstDayOfMonth",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "date"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns the day number of the first day of a passed date object",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Date"
+                        ]
+                    },
+                    "name": "date"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "description": "0-6 (Sun-Sat)"
+                }
+            ],
+            "name": "getFirstDayOfMonth",
+            "longname": "DateUtil.getFirstDayOfMonth",
+            "kind": "function",
+            "memberof": "DateUtil",
+            "scope": "static",
+            "$longname": "DateUtil.getFirstDayOfMonth",
+            "$kind": "method",
+            "id": 1887,
+            "neoClassName": "Neo.util.Date"
+        }
+    ]
+}

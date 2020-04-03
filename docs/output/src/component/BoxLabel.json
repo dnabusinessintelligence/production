@@ -1,0 +1,101 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * Convenience class to render a bordered label with a text\r\n * @class Neo.component.BoxLabel\r\n * @extends Neo.component.Label\r\n */",
+            "meta": {
+                "filename": "BoxLabel.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\component",
+                "code": {}
+            },
+            "description": "Convenience class to render a bordered label with a text",
+            "kind": "class",
+            "name": "BoxLabel",
+            "augments": [
+                "Neo.component.Label"
+            ],
+            "memberof": "Neo.component",
+            "longname": "Neo.component.BoxLabel",
+            "scope": "static",
+            "$longname": "Neo.component.BoxLabel",
+            "$kind": "class",
+            "id": 189,
+            "neoClassName": "Neo.component.BoxLabel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.component.BoxLabel'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "BoxLabel.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\component",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.component.BoxLabel'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 190,
+            "neoClassName": "Neo.component.BoxLabel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='box-label'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "BoxLabel.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\component",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'box-label'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 191,
+            "neoClassName": "Neo.component.BoxLabel"
+        },
+        {
+            "comment": "/**\r\n         * @member {String[]} cls=['neo-label']\r\n         */",
+            "meta": {
+                "filename": "BoxLabel.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\component",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array.<String>"
+                ]
+            },
+            "defaultvalue": "['neo-label']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 192,
+            "neoClassName": "Neo.component.BoxLabel"
+        }
+    ]
+}

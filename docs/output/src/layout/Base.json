@@ -1,0 +1,288 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * The base class for all other layouts.\r\n * Use it directly in case you want to create a container without a layout.\r\n * @class Neo.layout.Base\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "Base.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {}
+            },
+            "description": "The base class for all other layouts.\rUse it directly in case you want to create a container without a layout.",
+            "kind": "class",
+            "name": "Base",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.layout",
+            "longname": "Neo.layout.Base",
+            "scope": "static",
+            "$longname": "Neo.layout.Base",
+            "$kind": "class",
+            "id": 1160,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.layout.Base'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Base.mjs",
+                "lineno": 15,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.layout.Base'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1161,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='layout-base'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Base.mjs",
+                "lineno": 20,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'layout-base'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1162,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n         * The Id of the Container instance this layout is bound to\r\n         * @member {?String} containerId=null\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Base.mjs",
+                "lineno": 26,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {}
+            },
+            "description": "The Id of the Container instance this layout is bound to",
+            "kind": "member",
+            "name": "containerId",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "nullable": true,
+            "defaultvalue": null,
+            "access": "private",
+            "longname": "containerId",
+            "scope": "global",
+            "$longname": "containerId",
+            "$kind": "property",
+            "id": 1163,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n         * Identifier for all classes that extend layout.Base\r\n         * @member {Boolean} isLayout=true\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Base.mjs",
+                "lineno": 32,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {}
+            },
+            "description": "Identifier for all classes that extend layout.Base",
+            "kind": "member",
+            "name": "isLayout",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "access": "private",
+            "longname": "isLayout",
+            "scope": "global",
+            "$longname": "isLayout",
+            "$kind": "property",
+            "id": 1164,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n     * Placeholder Method\r\n     * @param {Neo.component.Base} item\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1061,
+                    1090
+                ],
+                "filename": "Base.mjs",
+                "lineno": 40,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {
+                    "id": "astnode100034198",
+                    "name": "Base#applyChildAttributes",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "item"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Placeholder Method",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Neo.component.Base"
+                        ]
+                    },
+                    "name": "item"
+                }
+            ],
+            "access": "private",
+            "name": "applyChildAttributes",
+            "longname": "Base#applyChildAttributes",
+            "kind": "function",
+            "memberof": "Base",
+            "scope": "instance",
+            "$longname": "Base#applyChildAttributes",
+            "$kind": "method",
+            "id": 1165,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n     * Placeholder Method\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1160,
+                    1186
+                ],
+                "filename": "Base.mjs",
+                "lineno": 46,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {
+                    "id": "astnode100034203",
+                    "name": "Base#applyRenderAttributes",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Placeholder Method",
+            "access": "private",
+            "name": "applyRenderAttributes",
+            "longname": "Base#applyRenderAttributes",
+            "kind": "function",
+            "memberof": "Base",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Base#applyRenderAttributes",
+            "$kind": "method",
+            "id": 1166,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n     * Placeholder Method\r\n     * @param {Neo.component.Base} item\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1297,
+                    1327
+                ],
+                "filename": "Base.mjs",
+                "lineno": 53,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {
+                    "id": "astnode100034207",
+                    "name": "Base#removeChildAttributes",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "item"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Placeholder Method",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Neo.component.Base"
+                        ]
+                    },
+                    "name": "item"
+                }
+            ],
+            "access": "private",
+            "name": "removeChildAttributes",
+            "longname": "Base#removeChildAttributes",
+            "kind": "function",
+            "memberof": "Base",
+            "scope": "instance",
+            "$longname": "Base#removeChildAttributes",
+            "$kind": "method",
+            "id": 1167,
+            "neoClassName": "Neo.layout.Base"
+        },
+        {
+            "comment": "/**\r\n     * Placeholder Method\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1397,
+                    1424
+                ],
+                "filename": "Base.mjs",
+                "lineno": 59,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "code": {
+                    "id": "astnode100034212",
+                    "name": "Base#removeRenderAttributes",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Placeholder Method",
+            "access": "private",
+            "name": "removeRenderAttributes",
+            "longname": "Base#removeRenderAttributes",
+            "kind": "function",
+            "memberof": "Base",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Base#removeRenderAttributes",
+            "$kind": "method",
+            "id": 1168,
+            "neoClassName": "Neo.layout.Base"
+        }
+    ]
+}

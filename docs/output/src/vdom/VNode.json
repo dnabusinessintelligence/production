@@ -1,0 +1,250 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * Wrapper class for vnode objects. See the tutorials for further infos.\r\n * @class Neo.vdom.VNode\r\n */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 1,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "description": "Wrapper class for vnode objects. See the tutorials for further infos.",
+            "kind": "class",
+            "name": "VNode",
+            "memberof": "Neo.vdom",
+            "longname": "Neo.vdom.VNode",
+            "scope": "static",
+            "$longname": "Neo.vdom.VNode",
+            "$kind": "class",
+            "id": 1978,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param config\r\n     */",
+            "meta": {
+                "range": [
+                    177,
+                    1198
+                ],
+                "filename": "VNode.mjs",
+                "lineno": 10,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {
+                    "id": "astnode100064892",
+                    "name": "VNode",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "config"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "config"
+                }
+            ],
+            "name": "VNode",
+            "longname": "VNode",
+            "kind": "class",
+            "scope": "global",
+            "$longname": "VNode",
+            "$kind": "constructor",
+            "id": 1979,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} attributes=[]\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "attributes",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "longname": "attributes",
+            "scope": "global",
+            "$longname": "attributes",
+            "$kind": "property",
+            "id": 1980,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} childNodes=[]\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "childNodes",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "longname": "childNodes",
+            "scope": "global",
+            "$longname": "childNodes",
+            "$kind": "property",
+            "id": 1981,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} className=[]\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1982,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} id=Neo.getId('vnode')\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 26,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "id",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "Neo.getId('vnode')",
+            "longname": "id",
+            "scope": "global",
+            "$longname": "id",
+            "$kind": "property",
+            "id": 1983,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} innerHTML\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 30,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "innerHTML",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "longname": "innerHTML",
+            "scope": "global",
+            "$longname": "innerHTML",
+            "$kind": "property",
+            "id": 1984,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} nodeName\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 34,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "nodeName",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "longname": "nodeName",
+            "scope": "global",
+            "$longname": "nodeName",
+            "$kind": "property",
+            "id": 1985,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} style\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 38,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "style",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "longname": "style",
+            "scope": "global",
+            "$longname": "style",
+            "$kind": "property",
+            "id": 1986,
+            "neoClassName": "Neo.vdom.VNode"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} vtype='vnode'\r\n         */",
+            "meta": {
+                "filename": "VNode.mjs",
+                "lineno": 42,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\vdom",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "vtype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'vnode'",
+            "longname": "vtype",
+            "scope": "global",
+            "$longname": "vtype",
+            "$kind": "property",
+            "id": 1987,
+            "neoClassName": "Neo.vdom.VNode"
+        }
+    ]
+}

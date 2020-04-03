@@ -1,0 +1,389 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.table.header.Toolbar\r\n * @extends Neo.container.Toolbar\r\n */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Toolbar",
+            "augments": [
+                "Neo.container.Toolbar"
+            ],
+            "memberof": "Neo.table.header",
+            "longname": "Neo.table.header.Toolbar",
+            "scope": "static",
+            "$longname": "Neo.table.header.Toolbar",
+            "$kind": "class",
+            "id": 1817,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.table.header.Toolbar'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.table.header.Toolbar'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1818,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='table-header-toolbar'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'table-header-toolbar'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1819,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} cls=['table-header-toolbar']\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "['table-header-toolbar']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1820,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} layout='base'\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 26,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "layout",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'base'",
+            "longname": "layout",
+            "scope": "global",
+            "$longname": "layout",
+            "$kind": "property",
+            "id": 1821,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} itemDefaults={ntype : 'table-header-button'}\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 30,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "itemDefaults",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "defaultvalue": "{ntype : 'table-header-button'}\r",
+            "description": ": 'table-header-button'}",
+            "longname": "itemDefaults",
+            "scope": "global",
+            "$longname": "itemDefaults",
+            "$kind": "property",
+            "id": 1822,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} _vdom={tag: 'thead',cn : [{tag: 'tr',cn : []}]}\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 36,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_vdom",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "defaultvalue": "{tag: 'thead',cn : [{tag: 'tr',cn : []}]}\r",
+            "description": "'thead',cn : [{tag: 'tr',cn : []}]}",
+            "longname": "_vdom",
+            "scope": "global",
+            "$longname": "_vdom",
+            "$kind": "property",
+            "id": 1823,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {String} dock\r\n     * @returns {String} layoutConfig\r\n     * @override\r\n     */",
+            "meta": {
+                "range": [
+                    1301,
+                    1355
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 51,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {
+                    "id": "astnode100057558",
+                    "name": "Toolbar#getLayoutConfig",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "dock"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "dock"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "description": "layoutConfig"
+                }
+            ],
+            "override": true,
+            "name": "getLayoutConfig",
+            "longname": "Toolbar#getLayoutConfig",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "$longname": "Toolbar#getLayoutConfig",
+            "$kind": "method",
+            "id": 1824,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     * Specify a different vdom items root if needed (useful in case this container uses a wrapper node).\r\n     * @returns {Object} The new vdom items root\r\n     */",
+            "meta": {
+                "range": [
+                    1538,
+                    1601
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 59,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {
+                    "id": "astnode100057565",
+                    "name": "Toolbar#getVdomItemsRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Specify a different vdom items root if needed (useful in case this container uses a wrapper node).",
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "The new vdom items root"
+                }
+            ],
+            "name": "getVdomItemsRoot",
+            "longname": "Toolbar#getVdomItemsRoot",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#getVdomItemsRoot",
+            "$kind": "method",
+            "id": 1825,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     * Specify a different vdom root if needed to apply the top level style attributes on a different level.\r\n     * Make sure to use getVnodeRoot() as well, to keep the vdom & vnode trees in sync.\r\n     * @returns {Object} The new vdom root\r\n     */",
+            "meta": {
+                "range": [
+                    1870,
+                    1925
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 68,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {
+                    "id": "astnode100057579",
+                    "name": "Toolbar#getVdomRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Specify a different vdom root if needed to apply the top level style attributes on a different level.\rMake sure to use getVnodeRoot() as well, to keep the vdom & vnode trees in sync.",
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "The new vdom root"
+                }
+            ],
+            "name": "getVdomRoot",
+            "longname": "Toolbar#getVdomRoot",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#getVdomRoot",
+            "$kind": "method",
+            "id": 1826,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     * Specify a different vnode root if needed to apply the top level style attributes on a different level.\r\n     * Make sure to use getVdomRoot() as well, to keep the vdom & vnode trees in sync.\r\n     * @returns {Object} The new vnode root\r\n     */",
+            "meta": {
+                "range": [
+                    2195,
+                    2260
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 77,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {
+                    "id": "astnode100057591",
+                    "name": "Toolbar#getVnodeRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Specify a different vnode root if needed to apply the top level style attributes on a different level.\rMake sure to use getVdomRoot() as well, to keep the vdom & vnode trees in sync.",
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "The new vnode root"
+                }
+            ],
+            "name": "getVnodeRoot",
+            "longname": "Toolbar#getVnodeRoot",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#getVnodeRoot",
+            "$kind": "method",
+            "id": 1827,
+            "neoClassName": "Neo.table.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    2294,
+                    3774
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 84,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "code": {
+                    "id": "astnode100057603",
+                    "name": "Toolbar#createItems",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "createItems",
+            "longname": "Toolbar#createItems",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#createItems",
+            "$kind": "method",
+            "id": 1828,
+            "neoClassName": "Neo.table.header.Toolbar"
+        }
+    ]
+}

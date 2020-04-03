@@ -1,0 +1,92 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * Required for the online version of the examples & docs app\r\n * @class Neo.main.mixins.GoogleAnalytics\r\n * @extends Neo.core.Base\r\n * @singleton\r\n */",
+            "meta": {
+                "filename": "GoogleAnalytics.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {}
+            },
+            "description": "Required for the online version of the examples & docs app",
+            "kind": "class",
+            "name": "GoogleAnalytics",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "tags": [
+                {
+                    "originalTitle": "singleton",
+                    "title": "singleton",
+                    "text": ""
+                }
+            ],
+            "memberof": "Neo.main.mixins",
+            "longname": "Neo.main.mixins.GoogleAnalytics",
+            "scope": "static",
+            "$longname": "Neo.main.mixins.GoogleAnalytics",
+            "$kind": "class",
+            "id": 1396,
+            "neoClassName": "Neo.main.mixins.GoogleAnalytics"
+        },
+        {
+            "comment": "/**\r\n             * @member {String} className='Neo.main.mixins.GoogleAnalytics'\r\n             * @private\r\n             */",
+            "meta": {
+                "filename": "GoogleAnalytics.mjs",
+                "lineno": 16,
+                "columnno": 12,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.main.mixins.GoogleAnalytics'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1397,
+            "neoClassName": "Neo.main.mixins.GoogleAnalytics"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    544,
+                    1053
+                ],
+                "filename": "GoogleAnalytics.mjs",
+                "lineno": 24,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "code": {
+                    "id": "astnode100042268",
+                    "name": "GoogleAnalytics#insertGoogleAnalyticsScript",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "access": "private",
+            "name": "insertGoogleAnalyticsScript",
+            "longname": "GoogleAnalytics#insertGoogleAnalyticsScript",
+            "kind": "function",
+            "memberof": "GoogleAnalytics",
+            "scope": "instance",
+            "params": [],
+            "$longname": "GoogleAnalytics#insertGoogleAnalyticsScript",
+            "$kind": "method",
+            "id": 1398,
+            "neoClassName": "Neo.main.mixins.GoogleAnalytics"
+        }
+    ]
+}

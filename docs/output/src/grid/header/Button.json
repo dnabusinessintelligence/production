@@ -1,0 +1,100 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.grid.header.Button\r\n * @extends Neo.component.Button\r\n */",
+            "meta": {
+                "filename": "Button.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Button",
+            "augments": [
+                "Neo.component.Button"
+            ],
+            "memberof": "Neo.grid.header",
+            "longname": "Neo.grid.header.Button",
+            "scope": "static",
+            "$longname": "Neo.grid.header.Button",
+            "$kind": "class",
+            "id": 1138,
+            "neoClassName": "Neo.grid.header.Button"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.grid.header.Button'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Button.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.grid.header.Button'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1139,
+            "neoClassName": "Neo.grid.header.Button"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='grid-header-button'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Button.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'grid-header-button'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1140,
+            "neoClassName": "Neo.grid.header.Button"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} cls=['neo-grid-header-button']\r\n         */",
+            "meta": {
+                "filename": "Button.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "['neo-grid-header-button']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1141,
+            "neoClassName": "Neo.grid.header.Button"
+        }
+    ]
+}

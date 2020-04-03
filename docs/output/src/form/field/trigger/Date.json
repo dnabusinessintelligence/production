@@ -1,0 +1,103 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * used by form.field.Date\r\n * @class Neo.form.field.trigger.Date\r\n * @extends Neo.form.field.trigger.Picker\r\n */",
+            "meta": {
+                "filename": "Date.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "description": "used by form.field.Date",
+            "kind": "class",
+            "name": "Date",
+            "augments": [
+                "Neo.form.field.trigger.Picker"
+            ],
+            "memberof": "Neo.form.field.trigger",
+            "longname": "Neo.form.field.trigger.Date",
+            "scope": "static",
+            "$longname": "Neo.form.field.trigger.Date",
+            "$kind": "class",
+            "id": 1088,
+            "neoClassName": "Neo.form.field.trigger.Date"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.form.field.trigger.Date'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Date.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.form.field.trigger.Date'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1089,
+            "neoClassName": "Neo.form.field.trigger.Date"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='trigger-date'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Date.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'trigger-date'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1090,
+            "neoClassName": "Neo.form.field.trigger.Date"
+        },
+        {
+            "comment": "/**\r\n         * @member {String|null} iconCls='fa fa-calendar-alt'\r\n         */",
+            "meta": {
+                "filename": "Date.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field\\trigger",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "iconCls",
+            "type": {
+                "names": [
+                    "String",
+                    "null"
+                ]
+            },
+            "defaultvalue": "'fa",
+            "description": "fa-calendar-alt'",
+            "longname": "iconCls",
+            "scope": "global",
+            "$longname": "iconCls",
+            "$kind": "property",
+            "id": 1091,
+            "neoClassName": "Neo.form.field.trigger.Date"
+        }
+    ]
+}

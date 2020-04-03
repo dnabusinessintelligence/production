@@ -1,0 +1,931 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.Main\r\n * @extends Neo.core.Base\r\n * @singleton\r\n */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 9,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Main",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "tags": [
+                {
+                    "originalTitle": "singleton",
+                    "title": "singleton",
+                    "text": ""
+                }
+            ],
+            "memberof": "Neo",
+            "longname": "Neo.Main",
+            "scope": "static",
+            "$longname": "Neo.Main",
+            "$kind": "class",
+            "id": 1286,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * True automatically applies the core/Observable.mjs mixin\r\n         * @member {Boolean} observable=true\r\n         * @static\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 21,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "description": "True automatically applies the core/Observable.mjs mixin",
+            "kind": "member",
+            "name": "observable",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "scope": "static",
+            "longname": "observable",
+            "$longname": "observable",
+            "$kind": "property",
+            "id": 1287,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.Main'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 29,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.Main'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1288,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} singleton=true\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 34,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "singleton",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "access": "private",
+            "longname": "singleton",
+            "scope": "global",
+            "$longname": "singleton",
+            "$kind": "property",
+            "id": 1289,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} isReady=false\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 39,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "isReady",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": false,
+            "access": "private",
+            "longname": "isReady",
+            "scope": "global",
+            "$longname": "isReady",
+            "$kind": "property",
+            "id": 1290,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {boolean} logAnimationFrames=true\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 43,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "logAnimationFrames",
+            "type": {
+                "names": [
+                    "boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "longname": "logAnimationFrames",
+            "scope": "global",
+            "$longname": "logAnimationFrames",
+            "$kind": "property",
+            "id": 1291,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} mixins=[LocalStorage]\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 47,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "mixins",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[LocalStorage]\r",
+            "longname": "mixins",
+            "scope": "global",
+            "$longname": "mixins",
+            "$kind": "property",
+            "id": 1292,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} mode='read'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 52,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "mode",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'read'",
+            "access": "private",
+            "longname": "mode",
+            "scope": "global",
+            "$longname": "mode",
+            "$kind": "property",
+            "id": 1293,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} readQueue=[]\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 57,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "readQueue",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "access": "private",
+            "longname": "readQueue",
+            "scope": "global",
+            "$longname": "readQueue",
+            "$kind": "property",
+            "id": 1294,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * Remote method access for other workers\r\n         * @member {Object} remote={app: [//...]}\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 63,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "description": "Remote method access for other workers",
+            "kind": "member",
+            "name": "remote",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "defaultvalue": "{app: [//...]}\r",
+            "access": "private",
+            "longname": "remote",
+            "scope": "global",
+            "$longname": "remote",
+            "$kind": "property",
+            "id": 1295,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} running=false\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 77,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "running",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": false,
+            "access": "private",
+            "longname": "running",
+            "scope": "global",
+            "$longname": "running",
+            "$kind": "property",
+            "id": 1296,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} showFps=false\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 81,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "showFps",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": false,
+            "longname": "showFps",
+            "scope": "global",
+            "$longname": "showFps",
+            "$kind": "property",
+            "id": 1297,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Number} timeLimit=15\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 85,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "timeLimit",
+            "type": {
+                "names": [
+                    "Number"
+                ]
+            },
+            "defaultvalue": 15,
+            "longname": "timeLimit",
+            "scope": "global",
+            "$longname": "timeLimit",
+            "$kind": "property",
+            "id": 1298,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * should be dev only\r\n         * @member {Number} totalFrameCount=0\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 91,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "description": "should be dev only",
+            "kind": "member",
+            "name": "totalFrameCount",
+            "type": {
+                "names": [
+                    "Number"
+                ]
+            },
+            "defaultvalue": 0,
+            "access": "private",
+            "longname": "totalFrameCount",
+            "scope": "global",
+            "$longname": "totalFrameCount",
+            "$kind": "property",
+            "id": 1299,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} updateQueue=[]\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 96,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "updateQueue",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "access": "private",
+            "longname": "updateQueue",
+            "scope": "global",
+            "$longname": "updateQueue",
+            "$kind": "property",
+            "id": 1300,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} writeQueue=[]\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Main.mjs",
+                "lineno": 101,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "writeQueue",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "access": "private",
+            "longname": "writeQueue",
+            "scope": "global",
+            "$longname": "writeQueue",
+            "$kind": "property",
+            "id": 1301,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} config\r\n     */",
+            "meta": {
+                "range": [
+                    2832,
+                    3259
+                ],
+                "filename": "Main.mjs",
+                "lineno": 108,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037603",
+                    "name": "Main",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "config"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "config"
+                }
+            ],
+            "name": "Main",
+            "longname": "Main",
+            "kind": "class",
+            "scope": "global",
+            "$longname": "Main",
+            "$kind": "constructor",
+            "id": 1302,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     * Edit the location.hash value\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    3351,
+                    3835
+                ],
+                "filename": "Main.mjs",
+                "lineno": 128,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037650",
+                    "name": "Main#editRoute",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Edit the location.hash value",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "editRoute",
+            "longname": "Main#editRoute",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#editRoute",
+            "$kind": "method",
+            "id": 1303,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     */",
+            "meta": {
+                "range": [
+                    3869,
+                    5022
+                ],
+                "filename": "Main.mjs",
+                "lineno": 148,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037733",
+                    "name": "Main#onDomContentLoaded",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "name": "onDomContentLoaded",
+            "longname": "Main#onDomContentLoaded",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Main#onDomContentLoaded",
+            "$kind": "method",
+            "id": 1304,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     */",
+            "meta": {
+                "range": [
+                    5246,
+                    5466
+                ],
+                "filename": "Main.mjs",
+                "lineno": 195,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037842",
+                    "name": "Main#onMountDom",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "name": "onMountDom",
+            "longname": "Main#onMountDom",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#onMountDom",
+            "$kind": "method",
+            "id": 1305,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     */",
+            "meta": {
+                "range": [
+                    5520,
+                    5623
+                ],
+                "filename": "Main.mjs",
+                "lineno": 209,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037872",
+                    "name": "Main#onRender",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "name": "onRender",
+            "longname": "Main#onRender",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#onRender",
+            "$kind": "method",
+            "id": 1306,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     */",
+            "meta": {
+                "range": [
+                    5677,
+                    5736
+                ],
+                "filename": "Main.mjs",
+                "lineno": 218,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037895",
+                    "name": "Main#onUpdateDom",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "name": "onUpdateDom",
+            "longname": "Main#onUpdateDom",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#onUpdateDom",
+            "$kind": "method",
+            "id": 1307,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     */",
+            "meta": {
+                "range": [
+                    5790,
+                    5898
+                ],
+                "filename": "Main.mjs",
+                "lineno": 226,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037906",
+                    "name": "Main#onUpdateVdom",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "name": "onUpdateVdom",
+            "longname": "Main#onUpdateVdom",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#onUpdateVdom",
+            "$kind": "method",
+            "id": 1308,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param queue\r\n     * @param start\r\n     * @returns {number}\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    6017,
+                    6521
+                ],
+                "filename": "Main.mjs",
+                "lineno": 238,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037929",
+                    "name": "Main#processQueue",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "queue",
+                        "start"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "queue"
+                },
+                {
+                    "name": "start"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "number"
+                        ]
+                    }
+                }
+            ],
+            "access": "private",
+            "name": "processQueue",
+            "longname": "Main#processQueue",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#processQueue",
+            "$kind": "method",
+            "id": 1309,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    6592,
+                    6808
+                ],
+                "filename": "Main.mjs",
+                "lineno": 259,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100037995",
+                    "name": "Main#queueRead",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "access": "private",
+            "name": "queueRead",
+            "longname": "Main#queueRead",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#queueRead",
+            "$kind": "method",
+            "id": 1310,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    6879,
+                    7099
+                ],
+                "filename": "Main.mjs",
+                "lineno": 274,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100038034",
+                    "name": "Main#queueUpdate",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "access": "private",
+            "name": "queueUpdate",
+            "longname": "Main#queueUpdate",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#queueUpdate",
+            "$kind": "method",
+            "id": 1311,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param data\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    7170,
+                    7388
+                ],
+                "filename": "Main.mjs",
+                "lineno": 289,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100038073",
+                    "name": "Main#queueWrite",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "data"
+                }
+            ],
+            "access": "private",
+            "name": "queueWrite",
+            "longname": "Main#queueWrite",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#queueWrite",
+            "$kind": "method",
+            "id": 1312,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     * Triggers the different DOM operation queues\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    7483,
+                    8413
+                ],
+                "filename": "Main.mjs",
+                "lineno": 303,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100038112",
+                    "name": "Main#renderFrame",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Triggers the different DOM operation queues",
+            "access": "private",
+            "name": "renderFrame",
+            "longname": "Main#renderFrame",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Main#renderFrame",
+            "$kind": "method",
+            "id": 1313,
+            "neoClassName": "Neo.Main"
+        },
+        {
+            "comment": "/**\r\n     * Change the location.hash value\r\n     * @param {Object} data\r\n     * @param {String} data.value\r\n     */",
+            "meta": {
+                "range": [
+                    8542,
+                    8609
+                ],
+                "filename": "Main.mjs",
+                "lineno": 345,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src",
+                "code": {
+                    "id": "astnode100038235",
+                    "name": "Main#setRoute",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Change the location.hash value",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    },
+                    "name": "data.value"
+                }
+            ],
+            "name": "setRoute",
+            "longname": "Main#setRoute",
+            "kind": "function",
+            "memberof": "Main",
+            "scope": "instance",
+            "$longname": "Main#setRoute",
+            "$kind": "method",
+            "id": 1314,
+            "neoClassName": "Neo.Main"
+        }
+    ]
+}

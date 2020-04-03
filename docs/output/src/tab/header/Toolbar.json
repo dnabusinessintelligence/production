@@ -1,0 +1,255 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.tab.header.Toolbar\r\n * @extends Neo.container.Toolbar\r\n */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Toolbar",
+            "augments": [
+                "Neo.container.Toolbar"
+            ],
+            "memberof": "Neo.tab.header",
+            "longname": "Neo.tab.header.Toolbar",
+            "scope": "static",
+            "$longname": "Neo.tab.header.Toolbar",
+            "$kind": "class",
+            "id": 1713,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.tab.header.Toolbar'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.tab.header.Toolbar'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1714,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='tab-header-toolbar'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'tab-header-toolbar'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1715,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} cls=['neo-tab-header-toolbar','neo-toolbar']\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "['neo-tab-header-toolbar','neo-toolbar']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1716,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n         * @member {Boolean} useActiveTabIndicator_=true\r\n         */",
+            "meta": {
+                "filename": "Toolbar.mjs",
+                "lineno": 26,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "useActiveTabIndicator_",
+            "type": {
+                "names": [
+                    "Boolean"
+                ]
+            },
+            "defaultvalue": true,
+            "longname": "useActiveTabIndicator_",
+            "scope": "global",
+            "$longname": "useActiveTabIndicator_",
+            "$kind": "property",
+            "id": 1717,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     * Triggered after the useActiveTabIndicator config got changed\r\n     * @param {Boolean} value\r\n     * @param {Boolean} oldValue\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    980,
+                    1385
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 35,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {
+                    "id": "astnode100055280",
+                    "name": "Toolbar#afterSetUseActiveTabIndicator",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "value",
+                        "oldValue"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Triggered after the useActiveTabIndicator config got changed",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "name": "value"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "name": "oldValue"
+                }
+            ],
+            "access": "private",
+            "name": "afterSetUseActiveTabIndicator",
+            "longname": "Toolbar#afterSetUseActiveTabIndicator",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "$longname": "Toolbar#afterSetUseActiveTabIndicator",
+            "$kind": "method",
+            "id": 1718,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1436,
+                    1674
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 54,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {
+                    "id": "astnode100055330",
+                    "name": "Toolbar#createItems",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "access": "private",
+            "name": "createItems",
+            "longname": "Toolbar#createItems",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#createItems",
+            "$kind": "method",
+            "id": 1719,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        },
+        {
+            "comment": "/**\r\n     * Returns the layout config matching to the dock position\r\n     * @returns {Object} layoutConfig\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1820,
+                    2731
+                ],
+                "filename": "Toolbar.mjs",
+                "lineno": 69,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\tab\\header",
+                "code": {
+                    "id": "astnode100055364",
+                    "name": "Toolbar#getLayoutConfig",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Returns the layout config matching to the dock position",
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "description": "layoutConfig"
+                }
+            ],
+            "access": "private",
+            "name": "getLayoutConfig",
+            "longname": "Toolbar#getLayoutConfig",
+            "kind": "function",
+            "memberof": "Toolbar",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Toolbar#getLayoutConfig",
+            "$kind": "method",
+            "id": 1720,
+            "neoClassName": "Neo.tab.header.Toolbar"
+        }
+    ]
+}

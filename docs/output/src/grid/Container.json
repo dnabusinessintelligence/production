@@ -1,0 +1,436 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.grid.Container\r\n * @extends Neo.container.Base\r\n */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Container",
+            "augments": [
+                "Neo.container.Base"
+            ],
+            "memberof": "Neo.grid",
+            "longname": "Neo.grid.Container",
+            "scope": "static",
+            "$longname": "Neo.grid.Container",
+            "$kind": "class",
+            "id": 1124,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.grid.Container'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.grid.Container'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 1125,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='grid-container'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'grid-container'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 1126,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * todo: testing config, remove when Stores are ready\r\n         * @member {Number} amountRows=20\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "description": "todo: testing config, remove when Stores are ready",
+            "kind": "member",
+            "name": "amountRows",
+            "type": {
+                "names": [
+                    "Number"
+                ]
+            },
+            "defaultvalue": 20,
+            "longname": "amountRows",
+            "scope": "global",
+            "$longname": "amountRows",
+            "$kind": "property",
+            "id": 1127,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} cls=['neo-grid-container']\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 27,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "['neo-grid-container']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 1128,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} columns=[]\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 31,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "columns",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "[]\r",
+            "longname": "columns",
+            "scope": "global",
+            "$longname": "columns",
+            "$kind": "property",
+            "id": 1129,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} _layout='base'\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 35,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_layout",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'base'",
+            "longname": "_layout",
+            "scope": "global",
+            "$longname": "_layout",
+            "$kind": "property",
+            "id": 1130,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} _items\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 39,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_items",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "longname": "_items",
+            "scope": "global",
+            "$longname": "_items",
+            "$kind": "property",
+            "id": 1131,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} _vdom\r\n         */",
+            "meta": {
+                "filename": "Container.mjs",
+                "lineno": 63,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_vdom",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "longname": "_vdom",
+            "scope": "global",
+            "$longname": "_vdom",
+            "$kind": "property",
+            "id": 1132,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Object} config\r\n     */",
+            "meta": {
+                "range": [
+                    1948,
+                    2055
+                ],
+                "filename": "Container.mjs",
+                "lineno": 79,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {
+                    "id": "astnode100033622",
+                    "name": "Container",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "config"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "config"
+                }
+            ],
+            "name": "Container",
+            "longname": "Container",
+            "kind": "class",
+            "scope": "global",
+            "$longname": "Container",
+            "$kind": "constructor",
+            "id": 1133,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n     * @override\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    2292,
+                    2347
+                ],
+                "filename": "Container.mjs",
+                "lineno": 96,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {
+                    "id": "astnode100033662",
+                    "name": "Container#getVdomRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "override": true,
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "getVdomRoot",
+            "longname": "Container#getVdomRoot",
+            "kind": "function",
+            "memberof": "Container",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Container#getVdomRoot",
+            "$kind": "method",
+            "id": 1134,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n     * @override\r\n     * @returns {Neo.vdom.VNode}\r\n     */",
+            "meta": {
+                "range": [
+                    2425,
+                    2490
+                ],
+                "filename": "Container.mjs",
+                "lineno": 104,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {
+                    "id": "astnode100033674",
+                    "name": "Container#getVnodeRoot",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "override": true,
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "Neo.vdom.VNode"
+                        ]
+                    }
+                }
+            ],
+            "name": "getVnodeRoot",
+            "longname": "Container#getVnodeRoot",
+            "kind": "function",
+            "memberof": "Container",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Container#getVnodeRoot",
+            "$kind": "method",
+            "id": 1135,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param columns\r\n     * @returns {*}\r\n     */",
+            "meta": {
+                "range": [
+                    2568,
+                    3083
+                ],
+                "filename": "Container.mjs",
+                "lineno": 113,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {
+                    "id": "astnode100033686",
+                    "name": "Container#createColumns",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "columns"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "name": "columns"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "*"
+                        ]
+                    }
+                }
+            ],
+            "name": "createColumns",
+            "longname": "Container#createColumns",
+            "kind": "function",
+            "memberof": "Container",
+            "scope": "instance",
+            "$longname": "Container#createColumns",
+            "$kind": "method",
+            "id": 1136,
+            "neoClassName": "Neo.grid.Container"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * Dummy method until we have a data package in place\r\n     * @param {Number} amountRows\r\n     */",
+            "meta": {
+                "range": [
+                    3211,
+                    4235
+                ],
+                "filename": "Container.mjs",
+                "lineno": 137,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\grid",
+                "code": {
+                    "id": "astnode100033753",
+                    "name": "Container#createRandomViewData",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "amountRows"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Dummy method until we have a data package in place",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Number"
+                        ]
+                    },
+                    "name": "amountRows"
+                }
+            ],
+            "name": "createRandomViewData",
+            "longname": "Container#createRandomViewData",
+            "kind": "function",
+            "memberof": "Container",
+            "scope": "instance",
+            "$longname": "Container#createRandomViewData",
+            "$kind": "method",
+            "id": 1137,
+            "neoClassName": "Neo.grid.Container"
+        }
+    ]
+}

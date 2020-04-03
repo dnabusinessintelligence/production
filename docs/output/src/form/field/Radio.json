@@ -1,0 +1,277 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.form.field.Radio\r\n * @extends Neo.form.field.CheckBox\r\n */",
+            "meta": {
+                "filename": "Radio.mjs",
+                "lineno": 4,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Radio",
+            "augments": [
+                "Neo.form.field.CheckBox"
+            ],
+            "memberof": "Neo.form.field",
+            "longname": "Neo.form.field.Radio",
+            "scope": "static",
+            "$longname": "Neo.form.field.Radio",
+            "$kind": "class",
+            "id": 876,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.form.field.Radio'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Radio.mjs",
+                "lineno": 14,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.form.field.Radio'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 877,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='radiofield'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Radio.mjs",
+                "lineno": 19,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'radiofield'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 878,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n         * @member {Array} cls=['neo-radiofield']\r\n         */",
+            "meta": {
+                "filename": "Radio.mjs",
+                "lineno": 23,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "cls",
+            "type": {
+                "names": [
+                    "Array"
+                ]
+            },
+            "defaultvalue": "['neo-radiofield']\r",
+            "longname": "cls",
+            "scope": "global",
+            "$longname": "cls",
+            "$kind": "property",
+            "id": 879,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} inputType='radio'\r\n         */",
+            "meta": {
+                "filename": "Radio.mjs",
+                "lineno": 27,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "inputType",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'radio'",
+            "longname": "inputType",
+            "scope": "global",
+            "$longname": "inputType",
+            "$kind": "property",
+            "id": 880,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n         * @member {Object} _vdom\r\n         */",
+            "meta": {
+                "filename": "Radio.mjs",
+                "lineno": 31,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "_vdom",
+            "type": {
+                "names": [
+                    "Object"
+                ]
+            },
+            "longname": "_vdom",
+            "scope": "global",
+            "$longname": "_vdom",
+            "$kind": "property",
+            "id": 881,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n     *\r\n     * @param {Boolean} value\r\n     * @param {Boolean} oldValue\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    1281,
+                    1506
+                ],
+                "filename": "Radio.mjs",
+                "lineno": 51,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {
+                    "id": "astnode100028147",
+                    "name": "Radio#afterSetChecked",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "value",
+                        "oldValue"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "name": "value"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "Boolean"
+                        ]
+                    },
+                    "name": "oldValue"
+                }
+            ],
+            "access": "private",
+            "name": "afterSetChecked",
+            "longname": "Radio#afterSetChecked",
+            "kind": "function",
+            "memberof": "Radio",
+            "scope": "instance",
+            "$longname": "Radio#afterSetChecked",
+            "$kind": "method",
+            "id": 882,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n     * Gets triggered when a user checks a radio input.\r\n     * @param {Object} data\r\n     */",
+            "meta": {
+                "range": [
+                    1618,
+                    1727
+                ],
+                "filename": "Radio.mjs",
+                "lineno": 64,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {
+                    "id": "astnode100028168",
+                    "name": "Radio#onInputValueChange",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "data"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Gets triggered when a user checks a radio input.",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "Object"
+                        ]
+                    },
+                    "name": "data"
+                }
+            ],
+            "name": "onInputValueChange",
+            "longname": "Radio#onInputValueChange",
+            "kind": "function",
+            "memberof": "Radio",
+            "scope": "instance",
+            "$longname": "Radio#onInputValueChange",
+            "$kind": "method",
+            "id": 883,
+            "neoClassName": "Neo.form.field.Radio"
+        },
+        {
+            "comment": "/**\r\n     * Radios do not fire a change event for \"uncheck\", so we need to iterate over other radios with the same name.\r\n     */",
+            "meta": {
+                "range": [
+                    1870,
+                    2668
+                ],
+                "filename": "Radio.mjs",
+                "lineno": 72,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\form\\field",
+                "code": {
+                    "id": "astnode100028184",
+                    "name": "Radio#uncheckGroupItems",
+                    "type": "MethodDefinition",
+                    "paramnames": []
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Radios do not fire a change event for \"uncheck\", so we need to iterate over other radios with the same name.",
+            "name": "uncheckGroupItems",
+            "longname": "Radio#uncheckGroupItems",
+            "kind": "function",
+            "memberof": "Radio",
+            "scope": "instance",
+            "params": [],
+            "$longname": "Radio#uncheckGroupItems",
+            "$kind": "method",
+            "id": 884,
+            "neoClassName": "Neo.form.field.Radio"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.data.connection.Socket\r\n * @extends Neo.core.Base\r\n */",
+            "meta": {
+                "filename": "Socket.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\connection",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "Socket",
+            "augments": [
+                "Neo.core.Base"
+            ],
+            "memberof": "Neo.data.connection",
+            "longname": "Neo.data.connection.Socket",
+            "scope": "static",
+            "$longname": "Neo.data.connection.Socket",
+            "$kind": "class",
+            "id": 648,
+            "neoClassName": "Neo.data.connection.Socket"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.data.connection.Socket'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Socket.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\connection",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.data.connection.Socket'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 649,
+            "neoClassName": "Neo.data.connection.Socket"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='socket-connection'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "Socket.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\connection",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'socket-connection'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 650,
+            "neoClassName": "Neo.data.connection.Socket"
+        }
+    ]
+}

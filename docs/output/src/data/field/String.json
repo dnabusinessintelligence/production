@@ -1,0 +1,166 @@
+{
+    "classData": [
+        {
+            "comment": "/**\r\n * @class Neo.data.field.String\r\n * @extends Neo.data.field.Field\r\n */",
+            "meta": {
+                "filename": "String.mjs",
+                "lineno": 3,
+                "columnno": 0,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "class",
+            "name": "String",
+            "augments": [
+                "Neo.data.field.Field"
+            ],
+            "memberof": "Neo.data.field",
+            "longname": "Neo.data.field.String",
+            "scope": "static",
+            "$longname": "Neo.data.field.String",
+            "$kind": "class",
+            "id": 683,
+            "neoClassName": "Neo.data.field.String"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} className='Neo.data.field.String'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "String.mjs",
+                "lineno": 13,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "className",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'Neo.data.field.String'",
+            "access": "private",
+            "longname": "className",
+            "scope": "global",
+            "$longname": "className",
+            "$kind": "property",
+            "id": 684,
+            "neoClassName": "Neo.data.field.String"
+        },
+        {
+            "comment": "/**\r\n         * @member {String} ntype='data-field-string'\r\n         * @private\r\n         */",
+            "meta": {
+                "filename": "String.mjs",
+                "lineno": 18,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "ntype",
+            "type": {
+                "names": [
+                    "String"
+                ]
+            },
+            "defaultvalue": "'data-field-string'",
+            "access": "private",
+            "longname": "ntype",
+            "scope": "global",
+            "$longname": "ntype",
+            "$kind": "property",
+            "id": 685,
+            "neoClassName": "Neo.data.field.String"
+        },
+        {
+            "comment": "/**\r\n         * @member {String|null} defaultValue=''\r\n         */",
+            "meta": {
+                "filename": "String.mjs",
+                "lineno": 22,
+                "columnno": 8,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {}
+            },
+            "kind": "member",
+            "name": "defaultValue",
+            "type": {
+                "names": [
+                    "String",
+                    "null"
+                ]
+            },
+            "defaultvalue": "''",
+            "longname": "defaultValue",
+            "scope": "global",
+            "$longname": "defaultValue",
+            "$kind": "property",
+            "id": 686,
+            "neoClassName": "Neo.data.field.String"
+        },
+        {
+            "comment": "/**\r\n     * Triggered before the value config gets changed.\r\n     * @param {String|null} value\r\n     * @param {String|null} oldValue\r\n     * @returns {String}\r\n     * @private\r\n     */",
+            "meta": {
+                "range": [
+                    783,
+                    1048
+                ],
+                "filename": "String.mjs",
+                "lineno": 32,
+                "columnno": 4,
+                "path": "G:\\Covid-19\\COVID-19\\src\\data\\field",
+                "code": {
+                    "id": "astnode100024330",
+                    "name": "StringField#beforeSetValue",
+                    "type": "MethodDefinition",
+                    "paramnames": [
+                        "value",
+                        "oldValue"
+                    ]
+                },
+                "vars": {
+                    "": null
+                }
+            },
+            "description": "Triggered before the value config gets changed.",
+            "params": [
+                {
+                    "type": {
+                        "names": [
+                            "String",
+                            "null"
+                        ]
+                    },
+                    "name": "value"
+                },
+                {
+                    "type": {
+                        "names": [
+                            "String",
+                            "null"
+                        ]
+                    },
+                    "name": "oldValue"
+                }
+            ],
+            "returns": [
+                {
+                    "type": {
+                        "names": [
+                            "String"
+                        ]
+                    }
+                }
+            ],
+            "access": "private",
+            "name": "beforeSetValue",
+            "longname": "StringField#beforeSetValue",
+            "kind": "function",
+            "memberof": "StringField",
+            "scope": "instance",
+            "$longname": "StringField#beforeSetValue",
+            "$kind": "method",
+            "id": 687,
+            "neoClassName": "Neo.data.field.String"
+        }
+    ]
+}
