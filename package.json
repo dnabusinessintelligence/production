@@ -1,82 +1,27 @@
 {
-    "name": "neo.mjs",
-    "version": "1.1.0",
-    "description": "The webworkers driven UI framework",
+    "name": "neo.mjs-pages",
+    "version": "1.0.1",
+    "description": "neo.mjs: Github Pages",
     "repository": {
         "type": "git",
-        "url": "https://github.com/neomjs/neo.git"
+        "url": "https://github.com/neomjs/pages.git"
     },
     "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build",
-        "server-start": "webpack-dev-server --open",
-        "build-all": "node ./buildScripts/buildAll.js",
-        "create-app": "node ./buildScripts/createApp.js",
-        "dev-build-my-apps": "webpack --config ./buildScripts/webpack/development/webpack.config.myapps.js",
-        "prod-build-my-apps": "webpack --config ./buildScripts/webpack/production/webpack.config.myapps.js",
-        "generate-docs-json": "node ./buildScripts/docs/jsdocx.js",
-        "build-development": "webpack --config ./buildScripts/webpack/development/webpack.config.js",
-        "build-production": "webpack --config ./buildScripts/webpack/production/webpack.config.js",
-        "dev-css-structure": "webpack --config ./buildScripts/webpack/development/webpack.scss.config.js --env.json_file=neo.structure.json",
-        "dev-theme-dark": "webpack --config ./buildScripts/webpack/development/webpack.scss.config.js --env.json_file=theme.dark.json",
-        "dev-theme-light": "webpack --config ./buildScripts/webpack/development/webpack.scss.config.js --env.json_file=theme.light.json",
-        "prod-css-structure": "webpack --config ./buildScripts/webpack/production/webpack.scss.config.js --env.json_file=neo.structure.json",
-        "prod-theme-dark": "webpack --config ./buildScripts/webpack/production/webpack.scss.config.js --env.json_file=theme.dark.json",
-        "prod-theme-light": "webpack --config ./buildScripts/webpack/production/webpack.scss.config.js --env.json_file=theme.light.json",
-        "dev-theme-dark-no-css4": "webpack --config ./buildScripts/webpack/development/webpack.scss.config.js --env.json_file=theme.dark.noCss4.json",
-        "dev-theme-light-no-css4": "webpack --config ./buildScripts/webpack/development/webpack.scss.config.js --env.json_file=theme.light.noCss4.json",
-        "prod-theme-dark-no-css4": "webpack --config ./buildScripts/webpack/production/webpack.scss.config.js --env.json_file=theme.dark.noCss4.json",
-        "prod-theme-light-no-css4": "webpack --config ./buildScripts/webpack/production/webpack.scss.config.js --env.json_file=theme.light.noCss4.json",
-        "dev-build-all-my-apps": "webpack --config ./buildScripts/webpack/development/webpack.config.myapps.js --env.build_all=true",
-        "prod-build-all-my-apps": "webpack --config ./buildScripts/webpack/production/webpack.config.myapps.js --env.build_all=true",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [
-        "javascript",
-        "frontend",
-        "framework",
-        "webworker",
-        "ecmascript",
-        "css",
-        "json"
-    ],
-    "author": "Tobias Uhlig, Rich Waters",
+    "keywords": [],
+    "author": "Tobias Uhlig, Nils Dehl",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/neomjs/neo/issues"
     },
     "homepage": "https://dnabusinessintelligence.github.io/production",
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.13.0",
-        "autoprefixer": "^9.7.5",
-        "clean-webpack-plugin": "^3.0.0",
-        "commander": "^5.0.0",
-        "css-loader": "^3.4.2",
-        "cssnano": "^4.1.10",
-        "deasync": "^0.1.19",
-        "fs-extra": "^9.0.0",
-        "gh-pages": "^2.2.0",
-        "highlightjs-line-numbers.js": "^2.7.0",
-        "html-webpack-plugin": "^4.0.2",
-        "inquirer": "^7.1.0",
-        "jsdoc": "^3.6.3",
-        "jsdoc-x": "^4.1.0",
-        "mini-css-extract-plugin": "^0.9.0",
-        "node-sass": "^4.13.1",
-        "postcss-loader": "^3.0.0",
-        "sass-loader": "^8.0.2",
-        "style-loader": "^1.1.3",
-        "webpack": "^4.42.1",
-        "webpack-cli": "^3.3.11",
-        "webpack-dev-server": "^3.10.3",
-        "webpack-node-externals": "^1.7.2",
-        "webpack-shell-plugin": "^0.5.0"
+        "neo.mjs": "^1.1.15"
     },
     "devDependencies": {
-        "siesta-lite": "^5.3.2"
-    },
-    "funding": {
-        "type": "GitHub Sponsors",
-        "url": "https://github.com/sponsors/tobiu"
+        "@fortawesome/fontawesome-free": "^5.11.2",
+        "highlightjs-line-numbers.js": "^2.7.0",
+        "siesta-lite": "^5.3.0"
     }
 }

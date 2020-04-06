@@ -1,36 +1,30 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-/apps/**/*.html
-/apps/**/*.mjs
-!/apps/covid/index.html
-!/apps/covid/**/*.mjs
-!/apps/realworld/index.html
-!/apps/realworld/**/*.mjs
-!/apps/realworld2/index.html
-!/apps/realworld2/**/*.mjs
-
-/buildScripts/webpack/entrypoints/myApps/**/*.mjs
-!/buildScripts/webpack/entrypoints/myApps/Covid.mjs
-!/buildScripts/webpack/entrypoints/myApps/RealWorld.mjs
-!/buildScripts/webpack/entrypoints/myApps/RealWorld2.mjs
-/buildScripts/webpack/development/json/myApps.json
-/buildScripts/webpack/production/json/myApps.json
-
-/dist
-/docs/output
-
-package-lock.json
+/package-lock.json
 
 # dependencies
-/node_modules
+/node_modules/*
+!/node_modules/neo.mjs
+/node_modules/neo.mjs/package-lock.json
+!/node_modules/neo.mjs/*
+!/node_modules/neo.mjs/dist/development/*
+!/node_modules/neo.mjs/dist/production/*
+
+/node_modules/neo.mjs/node_modules/*
+!/node_modules/neo.mjs/node_modules/@fortawesome
+!/node_modules/neo.mjs/node_modules/@fortawesome/*
+!/node_modules/neo.mjs/node_modules/highlightjs-line-numbers.js
+!/node_modules/neo.mjs/node_modules/highlightjs-line-numbers.js/*
+
+!/node_modules/neo.mjs/node_modules/siesta-lite/resources/css/*
+!/node_modules/neo.mjs/node_modules/siesta-lite/siesta-all.js
 
 # IDEs and editors
 /.idea
 .project
 .classpath
 *.launch
-.settings
-.vscode/
+.settings/
 
 #System Files
 .DS_Store
