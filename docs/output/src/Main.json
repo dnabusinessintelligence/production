@@ -6,7 +6,7 @@
                 "filename": "Main.mjs",
                 "lineno": 9,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "Main.mjs",
                 "lineno": 21,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "description": "True automatically applies the core/Observable.mjs mixin",
@@ -60,7 +60,7 @@
                 "filename": "Main.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "Main.mjs",
                 "lineno": 34,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -110,7 +110,7 @@
                 "filename": "Main.mjs",
                 "lineno": 39,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -135,7 +135,7 @@
                 "filename": "Main.mjs",
                 "lineno": 43,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -159,7 +159,7 @@
                 "filename": "Main.mjs",
                 "lineno": 47,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -183,7 +183,7 @@
                 "filename": "Main.mjs",
                 "lineno": 52,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -208,7 +208,7 @@
                 "filename": "Main.mjs",
                 "lineno": 57,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -233,7 +233,7 @@
                 "filename": "Main.mjs",
                 "lineno": 63,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "description": "Remote method access for other workers",
@@ -259,7 +259,7 @@
                 "filename": "Main.mjs",
                 "lineno": 77,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -284,7 +284,7 @@
                 "filename": "Main.mjs",
                 "lineno": 81,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -308,7 +308,7 @@
                 "filename": "Main.mjs",
                 "lineno": 85,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -332,7 +332,7 @@
                 "filename": "Main.mjs",
                 "lineno": 91,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "description": "should be dev only",
@@ -358,7 +358,7 @@
                 "filename": "Main.mjs",
                 "lineno": 96,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -383,7 +383,7 @@
                 "filename": "Main.mjs",
                 "lineno": 101,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {}
             },
             "kind": "member",
@@ -412,7 +412,7 @@
                 "filename": "Main.mjs",
                 "lineno": 108,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037603",
                     "name": "Main",
@@ -454,7 +454,7 @@
                 "filename": "Main.mjs",
                 "lineno": 128,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037650",
                     "name": "Main#editRoute",
@@ -498,7 +498,7 @@
                 "filename": "Main.mjs",
                 "lineno": 148,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037733",
                     "name": "Main#onDomContentLoaded",
@@ -530,7 +530,7 @@
                 "filename": "Main.mjs",
                 "lineno": 195,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037842",
                     "name": "Main#onMountDom",
@@ -568,7 +568,7 @@
                 "filename": "Main.mjs",
                 "lineno": 209,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037872",
                     "name": "Main#onRender",
@@ -606,7 +606,7 @@
                 "filename": "Main.mjs",
                 "lineno": 218,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037895",
                     "name": "Main#onUpdateDom",
@@ -644,7 +644,7 @@
                 "filename": "Main.mjs",
                 "lineno": 226,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037906",
                     "name": "Main#onUpdateVdom",
@@ -682,7 +682,7 @@
                 "filename": "Main.mjs",
                 "lineno": 238,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037929",
                     "name": "Main#processQueue",
@@ -734,7 +734,7 @@
                 "filename": "Main.mjs",
                 "lineno": 259,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100037995",
                     "name": "Main#queueRead",
@@ -773,7 +773,7 @@
                 "filename": "Main.mjs",
                 "lineno": 274,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100038034",
                     "name": "Main#queueUpdate",
@@ -812,7 +812,7 @@
                 "filename": "Main.mjs",
                 "lineno": 289,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100038073",
                     "name": "Main#queueWrite",
@@ -851,7 +851,7 @@
                 "filename": "Main.mjs",
                 "lineno": 303,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100038112",
                     "name": "Main#renderFrame",
@@ -885,7 +885,7 @@
                 "filename": "Main.mjs",
                 "lineno": 345,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src",
                 "code": {
                     "id": "astnode100038235",
                     "name": "Main#setRoute",

@@ -6,7 +6,7 @@
                 "filename": "View.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "View.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "View.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "View.mjs",
                 "lineno": 22,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "member",
@@ -102,7 +102,7 @@
                 "filename": "View.mjs",
                 "lineno": 27,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "member",
@@ -128,7 +128,7 @@
                 "filename": "View.mjs",
                 "lineno": 31,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "member",
@@ -152,7 +152,7 @@
                 "filename": "View.mjs",
                 "lineno": 35,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {}
             },
             "kind": "member",
@@ -181,7 +181,7 @@
                 "filename": "View.mjs",
                 "lineno": 44,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {
                     "id": "astnode100057845",
                     "name": "View#createViewData",
@@ -224,7 +224,7 @@
                 "filename": "View.mjs",
                 "lineno": 162,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {
                     "id": "astnode100058307",
                     "name": "View#getCellId",
@@ -285,7 +285,7 @@
                 "filename": "View.mjs",
                 "lineno": 178,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table",
                 "code": {
                     "id": "astnode100058341",
                     "name": "View#onStoreRecordChange",

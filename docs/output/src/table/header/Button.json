@@ -6,7 +6,7 @@
                 "filename": "Button.mjs",
                 "lineno": 4,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Button.mjs",
                 "lineno": 16,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "description": "Valid values for align",
@@ -53,7 +53,7 @@
                 "filename": "Button.mjs",
                 "lineno": 24,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Button.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -103,7 +103,7 @@
                 "filename": "Button.mjs",
                 "lineno": 34,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "description": "Alignment of the matching table cells. Valid values are left, center, right",
@@ -128,7 +128,7 @@
                 "filename": "Button.mjs",
                 "lineno": 38,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -152,7 +152,7 @@
                 "filename": "Button.mjs",
                 "lineno": 42,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -176,7 +176,7 @@
                 "filename": "Button.mjs",
                 "lineno": 46,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -201,7 +201,7 @@
                 "filename": "Button.mjs",
                 "lineno": 50,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -225,7 +225,7 @@
                 "filename": "Button.mjs",
                 "lineno": 56,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "description": "'ASC', 'DESC' or null",
@@ -252,7 +252,7 @@
                 "filename": "Button.mjs",
                 "lineno": 62,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "description": "Scope to execute the column renderer.\rDefaults to the matching table.Container",
@@ -278,7 +278,7 @@
                 "filename": "Button.mjs",
                 "lineno": 66,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {}
             },
             "kind": "member",
@@ -305,7 +305,7 @@
                 "filename": "Button.mjs",
                 "lineno": 86,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057025",
                     "name": "Button#getVdomRoot",
@@ -348,7 +348,7 @@
                 "filename": "Button.mjs",
                 "lineno": 95,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057037",
                     "name": "Button#getVnodeRoot",
@@ -391,7 +391,7 @@
                 "filename": "Button.mjs",
                 "lineno": 103,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057049",
                     "name": "Button",
@@ -433,7 +433,7 @@
                 "filename": "Button.mjs",
                 "lineno": 132,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057113",
                     "name": "Button#afterSetDraggable",
@@ -487,7 +487,7 @@
                 "filename": "Button.mjs",
                 "lineno": 151,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057157",
                     "name": "Button#beforeSetAlign",
@@ -541,7 +541,7 @@
                 "filename": "Button.mjs",
                 "lineno": 158,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057172",
                     "name": "Button#onButtonClick",
@@ -574,7 +574,7 @@
                 "filename": "Button.mjs",
                 "lineno": 199,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057297",
                     "name": "Button#onDragEnd",
@@ -607,7 +607,7 @@
                 "filename": "Button.mjs",
                 "lineno": 210,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057321",
                     "name": "Button#onDragEnter",
@@ -640,7 +640,7 @@
                 "filename": "Button.mjs",
                 "lineno": 221,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057347",
                     "name": "Button#onDragLeave",
@@ -673,7 +673,7 @@
                 "filename": "Button.mjs",
                 "lineno": 233,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057373",
                     "name": "Button#onDragOver",
@@ -716,7 +716,7 @@
                 "filename": "Button.mjs",
                 "lineno": 240,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057378",
                     "name": "Button#onDragStart",
@@ -749,7 +749,7 @@
                 "filename": "Button.mjs",
                 "lineno": 252,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057403",
                     "name": "Button#onDrop",
@@ -792,7 +792,7 @@
                 "filename": "Button.mjs",
                 "lineno": 266,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057467",
                     "name": "Button#removeSortingCss",
@@ -825,7 +825,7 @@
                 "filename": "Button.mjs",
                 "lineno": 285,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\table\\header",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\table\\header",
                 "code": {
                     "id": "astnode100057499",
                     "name": "Button#renderer",

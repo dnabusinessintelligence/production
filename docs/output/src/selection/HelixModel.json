@@ -6,7 +6,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 4,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "A selection model intended to use for Neo.component.Helix",
@@ -29,7 +29,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -54,7 +54,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 20,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -79,7 +79,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 26,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "True to stay in the same column when navigating with the up and down keys,\rotherwise you will navigate to the next / prev column when moving out",
@@ -108,7 +108,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 32,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049490",
                     "name": "HelixModel#addDomListener",
@@ -141,7 +141,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 37,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049494",
                     "name": "HelixModel#onContainerClick",
@@ -173,7 +173,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 67,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049587",
                     "name": "HelixModel#onItemClick",
@@ -216,7 +216,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 91,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049666",
                     "name": "HelixModel#onKeyDownDown",
@@ -259,7 +259,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 99,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049677",
                     "name": "HelixModel#onKeyDownLeft",
@@ -302,7 +302,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 107,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049689",
                     "name": "HelixModel#onKeyDownRight",
@@ -345,7 +345,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 115,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049700",
                     "name": "HelixModel#onKeyDownUp",
@@ -388,7 +388,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 123,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049712",
                     "name": "HelixModel#onNavKeyColumn",
@@ -432,7 +432,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 170,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049857",
                     "name": "HelixModel#onNavKeyRow",
@@ -476,7 +476,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 203,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049960",
                     "name": "HelixModel#register",
@@ -519,7 +519,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 231,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050043",
                     "name": "HelixModel#select",
@@ -573,7 +573,7 @@
                 "filename": "HelixModel.mjs",
                 "lineno": 277,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050204",
                     "name": "HelixModel#unregister",

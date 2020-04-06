@@ -6,7 +6,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 10,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 21,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "member",
@@ -60,7 +60,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 25,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "member",
@@ -84,7 +84,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 30,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "member",
@@ -109,7 +109,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 34,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "member",
@@ -134,7 +134,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 48,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "description": "Remote method access for other workers",
@@ -160,7 +160,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 69,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "description": "Void attributes inside html tags",
@@ -189,7 +189,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 79,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100038802",
                     "name": "DomAccess",
@@ -231,7 +231,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 97,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100038832",
                     "name": "DomAccess#addScript",
@@ -298,7 +298,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 110,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100038860",
                     "name": "DomAccess#applyBodyCls",
@@ -349,7 +349,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 121,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100038884",
                     "name": "DomAccess#execCommand",
@@ -410,7 +410,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 131,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100038899",
                     "name": "DomAccess#focus",
@@ -464,7 +464,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 148,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100038928",
                     "name": "DomAccess#getAttributes",
@@ -539,7 +539,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 185,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039032",
                     "name": "DomAccess#getBoundingClientRect",
@@ -604,7 +604,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 226,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039144",
                     "name": "DomAccess#getElement",
@@ -657,7 +657,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 236,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039155",
                     "name": "DomAccess#getElementOrBody",
@@ -712,7 +712,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 250,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039182",
                     "name": "DomAccess#loadScript",
@@ -776,7 +776,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 276,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039231",
                     "name": "DomAccess#onReadDom",
@@ -853,7 +853,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 338,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039500",
                     "name": "DomAccess#onScrollIntoView",
@@ -897,7 +897,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 356,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039545",
                     "name": "DomAccess#read",
@@ -941,7 +941,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 371,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039559",
                     "name": "DomAccess#scrollIntoView",
@@ -1032,7 +1032,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 393,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039607",
                     "name": "DomAccess#scrollToTableRow",
@@ -1113,7 +1113,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 419,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039687",
                     "name": "DomAccess#selectNode",
@@ -1194,7 +1194,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 439,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039745",
                     "name": "DomAccess#windowScrollTo",
@@ -1268,7 +1268,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 452,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100039774",
                     "name": "DomAccess#write",

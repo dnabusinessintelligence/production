@@ -6,7 +6,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 8,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "The worker manager lives inside the main thread and creates the App, Data & VDom worker.\rAlso responsible for sending messages from the main thread to the different workers.",
@@ -36,7 +36,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 21,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -61,7 +61,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 26,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -86,7 +86,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 31,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -111,7 +111,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 37,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "The base path for the worker file URLs, can e.g. get set inside the index.html.",
@@ -138,7 +138,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 41,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -165,7 +165,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 47,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "True in case the current browser supports window.SharedWorker.",
@@ -191,7 +191,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 53,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "Internal flag to stop the worker communication in case their creation fails",
@@ -217,7 +217,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 60,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "True in case the current browser supports window.Worker.\rThe neo.mjs framework is not able to run without web workers.",
@@ -243,7 +243,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 66,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "Contains the fileNames for the App, Data & Vdom workers",
@@ -272,7 +272,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 83,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065756",
                     "name": "Manager",
@@ -314,7 +314,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 114,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065875",
                     "name": "Manager#detectFeatures",
@@ -346,7 +346,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 133,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065910",
                     "name": "Manager#getWorker",
@@ -399,7 +399,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 142,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065928",
                     "name": "Manager#createWorker",
@@ -452,7 +452,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 158,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065996",
                     "name": "Manager#createWorkers",
@@ -485,7 +485,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 190,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066098",
                     "name": "Manager#onWorkerError",
@@ -529,7 +529,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 200,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066118",
                     "name": "Manager#onWorkerMessage",
@@ -573,7 +573,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 269,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066340",
                     "name": "Manager#loadApplication",
@@ -616,7 +616,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 281,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066362",
                     "name": "Manager#broadcast",
@@ -655,7 +655,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 291,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066388",
                     "name": "Manager#resolveDomOperationPromise",
@@ -698,7 +698,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 314,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066422",
                     "name": "Manager#sendMessage",
@@ -773,7 +773,7 @@
                 "filename": "Manager.mjs",
                 "lineno": 341,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100066474",
                     "name": "Manager#promiseMessage",

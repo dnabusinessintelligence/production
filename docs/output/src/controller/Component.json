@@ -6,7 +6,7 @@
                 "filename": "Component.mjs",
                 "lineno": 7,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Component.mjs",
                 "lineno": 17,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Component.mjs",
                 "lineno": 22,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Component.mjs",
                 "lineno": 27,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {}
             },
             "kind": "member",
@@ -103,7 +103,7 @@
                 "filename": "Component.mjs",
                 "lineno": 32,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {}
             },
             "kind": "member",
@@ -132,7 +132,7 @@
                 "filename": "Component.mjs",
                 "lineno": 35,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100020545",
                     "name": "Component",
@@ -166,7 +166,7 @@
                 "filename": "Component.mjs",
                 "lineno": 51,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100020577",
                     "name": "Component#beforeGetView",
@@ -220,7 +220,7 @@
                 "filename": "Component.mjs",
                 "lineno": 61,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100020589",
                     "name": "Component#beforeSetView",
@@ -274,7 +274,7 @@
                 "filename": "Component.mjs",
                 "lineno": 70,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100020599",
                     "name": "Component#getParentHandlerScope",
@@ -327,7 +327,7 @@
                 "filename": "Component.mjs",
                 "lineno": 95,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100020656",
                     "name": "Component#getReference",
@@ -380,7 +380,7 @@
                 "filename": "Component.mjs",
                 "lineno": 119,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100020718",
                     "name": "Component#onViewConstructed",
@@ -423,7 +423,7 @@
                 "filename": "Component.mjs",
                 "lineno": 213,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\controller",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\controller",
                 "code": {
                     "id": "astnode100021068",
                     "name": "Component#parseConfig",

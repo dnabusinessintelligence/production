@@ -6,7 +6,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 30,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 41,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -60,7 +60,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 46,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 51,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -110,7 +110,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 56,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -135,7 +135,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 61,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -164,7 +164,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 69,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100044105",
                     "name": "DomEvent#fire",
@@ -208,7 +208,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 153,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100044386",
                     "name": "DomEvent#generateListenerConfig",
@@ -259,7 +259,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 188,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100044464",
                     "name": "DomEvent#getListener",
@@ -359,7 +359,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 206,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100044507",
                     "name": "DomEvent#mountDomListeners",
@@ -404,7 +404,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 252,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100044629",
                     "name": "DomEvent#register",
@@ -529,7 +529,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 332,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100044907",
                     "name": "DomEvent#unregister",
@@ -631,7 +631,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 402,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100045147",
                     "name": "DomEvent#updateListenerPlaceholder",
@@ -715,7 +715,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 427,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100045225",
                     "name": "DomEvent#verifyDelegationPath",

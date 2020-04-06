@@ -6,7 +6,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 4,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "A selection model intended to use for Neo.component.Gallery",
@@ -29,7 +29,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -54,7 +54,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 20,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -79,7 +79,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 26,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "True to stay in the same column when navigating with the up and down keys,\rotherwise you will navigate to the next / prev column when moving out",
@@ -108,7 +108,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 32,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048627",
                     "name": "GalleryModel#addDomListener",
@@ -141,7 +141,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 37,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048631",
                     "name": "GalleryModel#onContainerClick",
@@ -173,7 +173,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 67,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048724",
                     "name": "GalleryModel#onItemClick",
@@ -216,7 +216,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 91,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048803",
                     "name": "GalleryModel#onKeyDownDown",
@@ -259,7 +259,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 99,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048821",
                     "name": "GalleryModel#onKeyDownLeft",
@@ -302,7 +302,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 107,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048840",
                     "name": "GalleryModel#onKeyDownRight",
@@ -345,7 +345,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 115,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048858",
                     "name": "GalleryModel#onKeyDownUp",
@@ -388,7 +388,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 123,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048877",
                     "name": "GalleryModel#onNavKeyColumn",
@@ -432,7 +432,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 156,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100048980",
                     "name": "GalleryModel#onNavKeyRow",
@@ -476,7 +476,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 207,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049141",
                     "name": "GalleryModel#register",
@@ -519,7 +519,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 235,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049224",
                     "name": "GalleryModel#select",
@@ -573,7 +573,7 @@
                 "filename": "GalleryModel.mjs",
                 "lineno": 280,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100049390",
                     "name": "GalleryModel#unregister",

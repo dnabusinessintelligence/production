@@ -6,7 +6,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "member",
@@ -57,7 +57,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061306",
                     "name": "VDom.findVdomChild",
@@ -144,7 +144,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 120,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061648",
                     "name": "VDom.getByFlag",
@@ -208,7 +208,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 131,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061671",
                     "name": "VDom.getChildIds",
@@ -263,7 +263,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 151,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061721",
                     "name": "VDom.getColumnNodes",
@@ -324,7 +324,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 171,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061769",
                     "name": "VDom.getColumnNodesIds",
@@ -385,7 +385,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 182,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061790",
                     "name": "VDom.getFlags",
@@ -457,7 +457,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 211,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061861",
                     "name": "VDom.insertAfterNode",
@@ -532,7 +532,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 222,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061877",
                     "name": "VDom.insertBeforeNode",
@@ -607,7 +607,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 234,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061893",
                     "name": "VDom.insertNode",
@@ -692,7 +692,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 257,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061959",
                     "name": "VDom.removeVdomChild",
@@ -758,7 +758,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 275,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100061994",
                     "name": "VDom.replaceVdomChild",
@@ -830,7 +830,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 306,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100062073",
                     "name": "VDom.syncVdomIds",

@@ -6,7 +6,7 @@
                 "filename": "Model.mjs",
                 "lineno": 5,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Model.mjs",
                 "lineno": 16,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "True automatically applies the core/Observable.mjs mixin",
@@ -53,7 +53,7 @@
                 "filename": "Model.mjs",
                 "lineno": 24,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Model.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -103,7 +103,7 @@
                 "filename": "Model.mjs",
                 "lineno": 35,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "Placeholder for extended classes to add a custom css rule to this owner component",
@@ -130,7 +130,7 @@
                 "filename": "Model.mjs",
                 "lineno": 40,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -155,7 +155,7 @@
                 "filename": "Model.mjs",
                 "lineno": 44,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -179,7 +179,7 @@
                 "filename": "Model.mjs",
                 "lineno": 48,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "kind": "member",
@@ -203,7 +203,7 @@
                 "filename": "Model.mjs",
                 "lineno": 54,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {}
             },
             "description": "Internally saves the view id, but the getter will return the matching instance",
@@ -233,7 +233,7 @@
                 "filename": "Model.mjs",
                 "lineno": 61,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050778",
                     "name": "Model#beforeGetView",
@@ -275,7 +275,7 @@
                 "filename": "Model.mjs",
                 "lineno": 69,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050790",
                     "name": "Model#beforeSetView",
@@ -320,7 +320,7 @@
                 "filename": "Model.mjs",
                 "lineno": 76,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050801",
                     "name": "Model#addDomListener",
@@ -352,7 +352,7 @@
                 "filename": "Model.mjs",
                 "lineno": 85,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050805",
                     "name": "Model#deselect",
@@ -426,7 +426,7 @@
                 "filename": "Model.mjs",
                 "lineno": 109,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050885",
                     "name": "Model#deselectAll",
@@ -471,7 +471,7 @@
                 "filename": "Model.mjs",
                 "lineno": 127,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050942",
                     "name": "Model#destroy",
@@ -503,7 +503,7 @@
                 "filename": "Model.mjs",
                 "lineno": 136,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050956",
                     "name": "Model#getSelection",
@@ -545,7 +545,7 @@
                 "filename": "Model.mjs",
                 "lineno": 144,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050964",
                     "name": "Model#hasSelection",
@@ -587,7 +587,7 @@
                 "filename": "Model.mjs",
                 "lineno": 153,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050976",
                     "name": "Model#isSelected",
@@ -640,7 +640,7 @@
                 "filename": "Model.mjs",
                 "lineno": 161,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100050992",
                     "name": "Model#register",
@@ -683,7 +683,7 @@
                 "filename": "Model.mjs",
                 "lineno": 177,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100051047",
                     "name": "Model#removeDomListeners",
@@ -715,7 +715,7 @@
                 "filename": "Model.mjs",
                 "lineno": 197,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100051097",
                     "name": "Model#select",
@@ -780,7 +780,7 @@
                 "filename": "Model.mjs",
                 "lineno": 230,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100051223",
                     "name": "Model#toggleSelection",
@@ -823,7 +823,7 @@
                 "filename": "Model.mjs",
                 "lineno": 243,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\selection",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\selection",
                 "code": {
                     "id": "astnode100051252",
                     "name": "Model#unregister",

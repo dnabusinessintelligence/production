@@ -6,7 +6,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 7,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -60,7 +60,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "description": "The internal record prefix for original field values.\rOnly used in case the model has trackModifiedFields set to true.",
@@ -110,7 +110,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 33,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -138,7 +138,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 42,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024502",
                     "name": "RecordFactory#createRecord",
@@ -199,7 +199,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 57,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024538",
                     "name": "RecordFactory#createRecordClass",
@@ -251,7 +251,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 70,
                 "columnno": 20,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024611",
                     "name": "ns[undefined]",
@@ -286,7 +286,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 146,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024786",
                     "name": "RecordFactory#isModified",
@@ -348,7 +348,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 173,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024847",
                     "name": "RecordFactory#isModifiedField",
@@ -411,7 +411,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 190,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024894",
                     "name": "RecordFactory#isRecord",
@@ -464,7 +464,7 @@
                 "filename": "RecordFactory.mjs",
                 "lineno": 204,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024919",
                     "name": "RecordFactory#onRecordChange",

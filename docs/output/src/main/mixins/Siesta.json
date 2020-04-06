@@ -6,7 +6,7 @@
                 "filename": "Siesta.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {}
             },
             "description": "Required when running Neo Apps inside the Siesta browser harness (iframe)",
@@ -36,7 +36,7 @@
                 "filename": "Siesta.mjs",
                 "lineno": 16,
                 "columnno": 12,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {}
             },
             "kind": "member",
@@ -65,7 +65,7 @@
                 "filename": "Siesta.mjs",
                 "lineno": 24,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042741",
                     "name": "Siesta#adjustSiestaEnvironment",

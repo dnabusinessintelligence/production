@@ -6,7 +6,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 1,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "This class gets used by core.Base, so it can not extend it.\rIt could get simplified to just being an object (needs to manually get put into the Neo namespace in this case).",
@@ -33,7 +33,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 16,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "Set this one to false in case you don't want to stick\rto the \"anti-pattern\" to apply classes to the global Neo or App namespace",
@@ -59,7 +59,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 24,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -84,7 +84,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -109,7 +109,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 34,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "The default prefix for neo instance ids",
@@ -134,7 +134,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 39,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -163,7 +163,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 46,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022174",
                     "name": "IdGenerator",
@@ -200,7 +200,7 @@
                 "filename": "IdGenerator.mjs",
                 "lineno": 64,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022209",
                     "name": "IdGenerator#getId",

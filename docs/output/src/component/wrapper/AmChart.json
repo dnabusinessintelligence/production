@@ -6,7 +6,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "description": "Convenience class to render an amChart\rRequires setting Neo.config.useAmCharts to true (or manually include the lib)",
@@ -29,7 +29,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "kind": "member",
@@ -54,7 +54,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 20,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "kind": "member",
@@ -79,7 +79,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 25,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "description": "See: https://www.amcharts.com/docs/v4/",
@@ -104,7 +104,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "kind": "member",
@@ -128,7 +128,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 37,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "description": "Charts & maps can have different targets to apply the data to. E.g.:\rmyChart.data = data; // => ''\rmyChart.series.values[0].data = data; // => 'series.values.0'\rUse a Neo.ns() conform syntax with dots between props",
@@ -153,7 +153,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 42,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {}
             },
             "description": "am4charts, am4maps",
@@ -182,7 +182,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 48,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {
                     "id": "astnode100018103",
                     "name": "AmChart#onConstructed",
@@ -214,7 +214,7 @@
                 "filename": "AmChart.mjs",
                 "lineno": 70,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\component\\wrapper",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\component\\wrapper",
                 "code": {
                     "id": "astnode100018171",
                     "name": "AmChart#onChartMounted",

@@ -6,7 +6,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 39,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 51,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "description": "True automatically applies the core/Observable.mjs mixin",
@@ -60,7 +60,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 59,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 64,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "kind": "member",
@@ -110,7 +110,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 70,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {}
             },
             "description": "Remote method access for other workers",
@@ -140,7 +140,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 82,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040018",
                     "name": "DomEvents",
@@ -182,7 +182,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 95,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040057",
                     "name": "DomEvents#addDomListener",
@@ -225,7 +225,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 130,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040185",
                     "name": "DomEvents#addGlobalDomListeners",
@@ -257,7 +257,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 142,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040223",
                     "name": "DomEvents#domEventListener",
@@ -301,7 +301,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 249,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040560",
                     "name": "DomEvents#getTargetData",
@@ -353,7 +353,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 284,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040693",
                     "name": "DomEvents#onChange",
@@ -396,7 +396,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 296,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040723",
                     "name": "DomEvents#onClick",
@@ -439,7 +439,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 310,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040755",
                     "name": "DomEvents#onContextMenu",
@@ -482,7 +482,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 323,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040787",
                     "name": "DomEvents#onDomContentLoaded",
@@ -514,7 +514,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 332,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040802",
                     "name": "DomEvents#onDragOver",
@@ -557,7 +557,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 341,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040815",
                     "name": "DomEvents#onFocusIn",
@@ -600,7 +600,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 349,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040830",
                     "name": "DomEvents#onFocusOut",
@@ -643,7 +643,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 356,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040845",
                     "name": "DomEvents#onHashChange",
@@ -675,7 +675,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 370,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040880",
                     "name": "DomEvents#onKeyDown",
@@ -718,7 +718,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 382,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040913",
                     "name": "DomEvents#onKeyUp",
@@ -761,7 +761,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 390,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040928",
                     "name": "DomEvents#onMouseEnter",
@@ -804,7 +804,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 401,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040957",
                     "name": "DomEvents#onMouseLeave",
@@ -847,7 +847,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 412,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100040986",
                     "name": "DomEvents#onWheel",
@@ -890,7 +890,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 450,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100041090",
                     "name": "DomEvents#parseHash",
@@ -943,7 +943,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 491,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100041234",
                     "name": "DomEvents#parseValue",
@@ -999,7 +999,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 509,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100041272",
                     "name": "DomEvents#registerPreventDefaultTargets",
@@ -1059,7 +1059,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 537,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100041341",
                     "name": "DomEvents#sendMessageToApp",
@@ -1104,7 +1104,7 @@
                 "filename": "DomEvents.mjs",
                 "lineno": 553,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main",
                 "code": {
                     "id": "astnode100041365",
                     "name": "DomEvents#testPathInclusion",

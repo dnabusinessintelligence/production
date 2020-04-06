@@ -6,7 +6,7 @@
                 "filename": "LocalStorage.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {}
             },
             "description": "Basic CRUD support for window.localStorage",
@@ -36,7 +36,7 @@
                 "filename": "LocalStorage.mjs",
                 "lineno": 16,
                 "columnno": 12,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {}
             },
             "kind": "member",
@@ -65,7 +65,7 @@
                 "filename": "LocalStorage.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042602",
                     "name": "LocalStorage#createLocalStorageItem",
@@ -125,7 +125,7 @@
                 "filename": "LocalStorage.mjs",
                 "lineno": 36,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042613",
                     "name": "LocalStorage#destroyLocalStorageItem",
@@ -177,7 +177,7 @@
                 "filename": "LocalStorage.mjs",
                 "lineno": 45,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042628",
                     "name": "LocalStorage#readLocalStorageItem",
@@ -229,7 +229,7 @@
                 "filename": "LocalStorage.mjs",
                 "lineno": 58,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042649",
                     "name": "LocalStorage#updateLocalStorageItem",

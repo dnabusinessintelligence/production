@@ -6,7 +6,7 @@
                 "filename": "Base.mjs",
                 "lineno": 6,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "The base class for all classes inside the Neo namespace",
@@ -30,7 +30,7 @@
                 "filename": "Base.mjs",
                 "lineno": 16,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021413",
                     "name": "Base.getStaticConfig",
@@ -72,7 +72,7 @@
                 "filename": "Base.mjs",
                 "lineno": 24,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "Set this one to false in case you don't want to stick\rto the \"anti-pattern\" to apply classes to the global Neo or App namespace",
@@ -102,7 +102,7 @@
                 "filename": "Base.mjs",
                 "lineno": 32,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021421",
                     "name": "Base.getConfig",
@@ -144,7 +144,7 @@
                 "filename": "Base.mjs",
                 "lineno": 38,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "The class name which will get mapped into the Neo or app namespace",
@@ -170,7 +170,7 @@
                 "filename": "Base.mjs",
                 "lineno": 44,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "The class shortcut-name to use for e.g. creating child components inside a JSON-format",
@@ -196,7 +196,7 @@
                 "filename": "Base.mjs",
                 "lineno": 49,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "Add mixins as an array of classNames, imported modules or a mixed version",
@@ -227,7 +227,7 @@
                 "filename": "Base.mjs",
                 "lineno": 57,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021433",
                     "name": "Base",
@@ -270,7 +270,7 @@
                 "filename": "Base.mjs",
                 "lineno": 106,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021576",
                     "name": "Base#onConstructed",
@@ -306,7 +306,7 @@
                 "filename": "Base.mjs",
                 "lineno": 113,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021580",
                     "name": "Base#init",
@@ -345,7 +345,7 @@
                 "filename": "Base.mjs",
                 "lineno": 122,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021584",
                     "name": "Base#beforeSetEnumValue",
@@ -422,7 +422,7 @@
                 "filename": "Base.mjs",
                 "lineno": 157,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021701",
                     "name": "Base#destroy",
@@ -455,7 +455,7 @@
                 "filename": "Base.mjs",
                 "lineno": 175,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021749",
                     "name": "Base#getStaticConfig",
@@ -510,7 +510,7 @@
                 "filename": "Base.mjs",
                 "lineno": 185,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021769",
                     "name": "Base#initConfig",
@@ -565,7 +565,7 @@
                 "filename": "Base.mjs",
                 "lineno": 195,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021798",
                     "name": "Base#processConfigs",
@@ -597,7 +597,7 @@
                 "filename": "Base.mjs",
                 "lineno": 219,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021860",
                     "name": "Base#initRemote",
@@ -630,7 +630,7 @@
                 "filename": "Base.mjs",
                 "lineno": 250,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100021955",
                     "name": "Base#mergeConfig",
@@ -695,7 +695,7 @@
                 "filename": "Base.mjs",
                 "lineno": 269,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022008",
                     "name": "Base#set",
@@ -740,7 +740,7 @@
                 "filename": "Base.mjs",
                 "lineno": 291,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022054",
                     "name": "Base#setStaticConfig",
@@ -804,7 +804,7 @@
                 "filename": "Base.mjs",
                 "lineno": 312,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022085",
                     "name": "Base#Symbol.toStringTag",
@@ -846,7 +846,7 @@
                 "filename": "Base.mjs",
                 "lineno": 319,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022103",
                     "name": "Base.Symbol.hasInstance",

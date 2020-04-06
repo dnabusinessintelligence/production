@@ -6,7 +6,7 @@
                 "filename": "Fit.mjs",
                 "lineno": 4,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\layout",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Fit.mjs",
                 "lineno": 14,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\layout",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Fit.mjs",
                 "lineno": 19,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\layout",
                 "code": {}
             },
             "kind": "member",
@@ -82,7 +82,7 @@
                 "filename": "Fit.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\layout",
                 "code": {
                     "id": "astnode100034567",
                     "name": "Fit#applyChildAttributes",
@@ -124,7 +124,7 @@
                 "filename": "Fit.mjs",
                 "lineno": 34,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\layout",
                 "code": {
                     "id": "astnode100034585",
                     "name": "Fit#applyRenderAttributes",
@@ -157,7 +157,7 @@
                 "filename": "Fit.mjs",
                 "lineno": 52,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\layout",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\layout",
                 "code": {
                     "id": "astnode100034637",
                     "name": "Fit#removeRenderAttributes",

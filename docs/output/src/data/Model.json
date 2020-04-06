@@ -6,7 +6,7 @@
                 "filename": "Model.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Model.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Model.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Model.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -103,7 +103,7 @@
                 "filename": "Model.mjs",
                 "lineno": 28,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -128,7 +128,7 @@
                 "filename": "Model.mjs",
                 "lineno": 33,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "kind": "member",
@@ -154,7 +154,7 @@
                 "filename": "Model.mjs",
                 "lineno": 40,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {}
             },
             "description": "Set this config to true in case you want to track modified fields.\rBe aware that this will double the amount of data inside each record,\rsince each field will get an original value flag.",
@@ -183,7 +183,7 @@
                 "filename": "Model.mjs",
                 "lineno": 48,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024406",
                     "name": "Model#afterSetFields",
@@ -235,7 +235,7 @@
                 "filename": "Model.mjs",
                 "lineno": 58,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\data",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\data",
                 "code": {
                     "id": "astnode100024412",
                     "name": "Model#getField",

@@ -6,7 +6,7 @@
                 "filename": "Base.mjs",
                 "lineno": 6,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "The abstract base class for the App, Data & VDom worker",
@@ -30,7 +30,7 @@
                 "filename": "Base.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -55,7 +55,7 @@
                 "filename": "Base.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -80,7 +80,7 @@
                 "filename": "Base.mjs",
                 "lineno": 27,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -107,7 +107,7 @@
                 "filename": "Base.mjs",
                 "lineno": 32,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -137,7 +137,7 @@
                 "filename": "Base.mjs",
                 "lineno": 39,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065287",
                     "name": "Base",
@@ -179,7 +179,7 @@
                 "filename": "Base.mjs",
                 "lineno": 58,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065340",
                     "name": "Base#onMessage",
@@ -222,7 +222,7 @@
                 "filename": "Base.mjs",
                 "lineno": 94,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065462",
                     "name": "Base#onPing",
@@ -265,7 +265,7 @@
                 "filename": "Base.mjs",
                 "lineno": 104,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065476",
                     "name": "Base#onRegisterNeoConfig",
@@ -308,7 +308,7 @@
                 "filename": "Base.mjs",
                 "lineno": 118,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065502",
                     "name": "Base#promiseMessage",
@@ -382,7 +382,7 @@
                 "filename": "Base.mjs",
                 "lineno": 141,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065547",
                     "name": "Base#sendMessage",

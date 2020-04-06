@@ -6,7 +6,7 @@
                 "filename": "Base.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "description": "Abstract base class for the other manager classes",
@@ -29,7 +29,7 @@
                 "filename": "Base.mjs",
                 "lineno": 14,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -54,7 +54,7 @@
                 "filename": "Base.mjs",
                 "lineno": 19,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {}
             },
             "kind": "member",
@@ -83,7 +83,7 @@
                 "filename": "Base.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100043409",
                     "name": "Base#getById",
@@ -136,7 +136,7 @@
                 "filename": "Base.mjs",
                 "lineno": 35,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100043420",
                     "name": "Base#register",
@@ -179,7 +179,7 @@
                 "filename": "Base.mjs",
                 "lineno": 49,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\manager",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\manager",
                 "code": {
                     "id": "astnode100043459",
                     "name": "Base#unregister",

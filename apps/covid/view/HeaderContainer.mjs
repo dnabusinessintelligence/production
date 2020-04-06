@@ -34,11 +34,13 @@ class HeaderContainer extends Container {
             reference: 'logo',
             style    : {margin: '10px'},
             width    : 267,
+            html    : '<img src="../../resources/images/dna-logo1.jpg">'
 
-            vdom: {
-                tag: 'img',
-                src: ''
-            }
+            // vdom: {
+            //     tag: 'img',
+            //     src: '<img src="./images/dna-logo.jpg">'
+            //     html    : '<img src="./resources/images/covid_logo_dark.jpg">'
+            // }
         }, {
             ntype : 'container',
             layout: {ntype: 'vbox', align: 'stretch'},

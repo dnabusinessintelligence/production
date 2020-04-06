@@ -6,7 +6,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {}
             },
             "description": "Logic to work with stylesheets, e.g. apply & switch Neo based themes",
@@ -36,7 +36,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 16,
                 "columnno": 12,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {}
             },
             "kind": "member",
@@ -65,7 +65,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 26,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042834",
                     "name": "Stylesheet#createStyleSheet",
@@ -130,7 +130,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 54,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042925",
                     "name": "Stylesheet#hasStyleSheet",
@@ -182,7 +182,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 74,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100042975",
                     "name": "Stylesheet#insertCssRules",
@@ -226,7 +226,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 105,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100043077",
                     "name": "Stylesheet#insertTheme",
@@ -259,7 +259,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 151,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100043231",
                     "name": "Stylesheet#removeStyleSheets",
@@ -318,7 +318,7 @@
                 "filename": "Stylesheet.mjs",
                 "lineno": 192,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\main\\mixins",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\main\\mixins",
                 "code": {
                     "id": "astnode100043359",
                     "name": "Stylesheet#swapStyleSheet",

@@ -6,7 +6,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "description": "True automatically applies the core/Observable.mjs mixin",
@@ -60,7 +60,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 28,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "member",
@@ -110,7 +110,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 33,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "member",
@@ -135,7 +135,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 38,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {}
             },
             "kind": "member",
@@ -164,7 +164,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 45,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100059914",
                     "name": "HashHistory#first",
@@ -205,7 +205,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 53,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100059924",
                     "name": "HashHistory#getCount",
@@ -246,7 +246,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 62,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\util",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\util",
                 "code": {
                     "id": "astnode100059934",
                     "name": "HashHistory#push",

@@ -6,7 +6,7 @@
                 "filename": "Util.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Util.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "description": "A regex to remove camel case syntax",
@@ -54,7 +54,7 @@
                 "filename": "Util.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -79,7 +79,7 @@
                 "filename": "Util.mjs",
                 "lineno": 28,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -108,7 +108,7 @@
                 "filename": "Util.mjs",
                 "lineno": 36,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023052",
                     "name": "Util.createStyles",
@@ -163,7 +163,7 @@
                 "filename": "Util.mjs",
                 "lineno": 53,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023098",
                     "name": "Util.capitalize",
@@ -218,7 +218,7 @@
                 "filename": "Util.mjs",
                 "lineno": 63,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023122",
                     "name": "Util.decamel",
@@ -273,7 +273,7 @@
                 "filename": "Util.mjs",
                 "lineno": 72,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023139",
                     "name": "Util.createStyleObject",
@@ -328,7 +328,7 @@
                 "filename": "Util.mjs",
                 "lineno": 107,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023237",
                     "name": "Util.isArray",
@@ -382,7 +382,7 @@
                 "filename": "Util.mjs",
                 "lineno": 116,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023248",
                     "name": "Util.isBoolean",
@@ -436,7 +436,7 @@
                 "filename": "Util.mjs",
                 "lineno": 125,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023258",
                     "name": "Util.isDefined",
@@ -490,7 +490,7 @@
                 "filename": "Util.mjs",
                 "lineno": 134,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023268",
                     "name": "Util.isEmpty",
@@ -546,7 +546,7 @@
                 "filename": "Util.mjs",
                 "lineno": 155,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023316",
                     "name": "Util.isFunction",
@@ -600,7 +600,7 @@
                 "filename": "Util.mjs",
                 "lineno": 164,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023326",
                     "name": "Util.isNumber",
@@ -654,7 +654,7 @@
                 "filename": "Util.mjs",
                 "lineno": 173,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023340",
                     "name": "Util.isObject",
@@ -708,7 +708,7 @@
                 "filename": "Util.mjs",
                 "lineno": 182,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023361",
                     "name": "Util.isString",
@@ -762,7 +762,7 @@
                 "filename": "Util.mjs",
                 "lineno": 193,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023371",
                     "name": "Util.toArray",

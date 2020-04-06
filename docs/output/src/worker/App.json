@@ -6,7 +6,7 @@
                 "filename": "App.mjs",
                 "lineno": 9,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "The App worker contains most parts of the framework as well as all apps which get created.\rSee the tutorials for further infos.",
@@ -36,7 +36,7 @@
                 "filename": "App.mjs",
                 "lineno": 22,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -61,7 +61,7 @@
                 "filename": "App.mjs",
                 "lineno": 27,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -86,7 +86,7 @@
                 "filename": "App.mjs",
                 "lineno": 32,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -112,7 +112,7 @@
                 "filename": "App.mjs",
                 "lineno": 37,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -137,7 +137,7 @@
                 "filename": "App.mjs",
                 "lineno": 42,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -162,7 +162,7 @@
                 "filename": "App.mjs",
                 "lineno": 47,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -187,7 +187,7 @@
                 "filename": "App.mjs",
                 "lineno": 52,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "kind": "member",
@@ -212,7 +212,7 @@
                 "filename": "App.mjs",
                 "lineno": 59,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "todo: App needs to know how many singletons have remotes registered here to ensure a correct starting point",
@@ -238,7 +238,7 @@
                 "filename": "App.mjs",
                 "lineno": 65,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {}
             },
             "description": "todo: App needs to know how many singletons have remotes registered here to ensure a correct starting point",
@@ -268,7 +268,7 @@
                 "filename": "App.mjs",
                 "lineno": 72,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065027",
                     "name": "App",
@@ -310,7 +310,7 @@
                 "filename": "App.mjs",
                 "lineno": 83,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065050",
                     "name": "App#onDomEvent",
@@ -355,7 +355,7 @@
                 "filename": "App.mjs",
                 "lineno": 91,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065061",
                     "name": "App#onHashChange",
@@ -400,7 +400,7 @@
                 "filename": "App.mjs",
                 "lineno": 99,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065077",
                     "name": "App#onLoadApplication",
@@ -444,7 +444,7 @@
                 "filename": "App.mjs",
                 "lineno": 138,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\worker",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\worker",
                 "code": {
                     "id": "astnode100065193",
                     "name": "App#onRemoteRegistered",

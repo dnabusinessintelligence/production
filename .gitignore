@@ -1,0 +1,37 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+/apps/**/*.html
+/apps/**/*.mjs
+!/apps/covid/index.html
+!/apps/covid/**/*.mjs
+!/apps/realworld/index.html
+!/apps/realworld/**/*.mjs
+!/apps/realworld2/index.html
+!/apps/realworld2/**/*.mjs
+
+/buildScripts/webpack/entrypoints/myApps/**/*.mjs
+!/buildScripts/webpack/entrypoints/myApps/Covid.mjs
+!/buildScripts/webpack/entrypoints/myApps/RealWorld.mjs
+!/buildScripts/webpack/entrypoints/myApps/RealWorld2.mjs
+/buildScripts/webpack/development/json/myApps.json
+/buildScripts/webpack/production/json/myApps.json
+
+/dist
+/docs/output
+
+package-lock.json
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+*.launch
+.settings
+.vscode/
+
+#System Files
+.DS_Store
+Thumbs.db

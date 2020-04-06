@@ -6,7 +6,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {}
             },
             "kind": "member",
@@ -107,7 +107,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 69,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022602",
                     "name": "Observable#addListener",
@@ -211,7 +211,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 127,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022839",
                     "name": "Observable#fire",
@@ -249,7 +249,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 150,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022932",
                     "name": "Observable#removeListener",
@@ -291,7 +291,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 189,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100022988",
                     "name": "Observable#on",
@@ -391,7 +391,7 @@
                 "filename": "Observable.mjs",
                 "lineno": 198,
                 "columnno": 4,
-                "path": "G:\\Covid-19\\COVID-19\\src\\core",
+                "path": "C:\\Users\\CZ 3\\Desktop\\COVID-19\\src\\core",
                 "code": {
                     "id": "astnode100023001",
                     "name": "Observable#un",
